@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebSocket Notification Client</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        input, button {
+            padding: 8px;
+            font-size: 14px;
+            margin: 10px 0;
+        }
+        ul {
+            margin-top: 20px;
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #ecf0f1;
+            padding: 10px;
+            margin-bottom: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>🔔 Real-time WebSocket Notifications</h2>
+    <label for="userId">Enter your numeric User ID (e.g., 1): </label>
+    <input type="number" id="userId" placeholder="User ID (int)" />
+    <button id="connectBtn" onclick="connectWS()">Connect</button>
+
+    <ul id="messages"></ul>
+
+    <script>
+        let socket;
+
+        function connectWS() {
+            const userId = document.getElementById("userId").value.trim();
+            if (!userId) {
+                alert("Please enter a user ID.");
+                return;
+            }
+
+            socket = new WebSocket(`ws://localhost:8000/ws/${userId}`);
+
+            socket.onopen = () => {
+                console.log(`✅ Connected as user ${userId}`);
+                alert(`Connected to WebSocket as User ID ${userId}`);
+                document.getElementById("connectBtn").disabled = true;
+            };
+
+            socket.onmessage = (event) => {
+                const msgList = document.getElementById("messages");
+                const li = document.createElement("li");
+                li.innerText = event.data;
+                msgList.appendChild(li);
+            };
+
+            socket.onerror = (err) => {
+                console.error("❌ WebSocket error", err);
+                alert("WebSocket connection error.");
+            };
+
+            socket.onclose = () => {
+                alert("🔌 Disconnected from WebSocket.");
+                document.getElementById("connectBtn").disabled = false;
+            };
+        }
+    </script>
+</body>
+</html>
