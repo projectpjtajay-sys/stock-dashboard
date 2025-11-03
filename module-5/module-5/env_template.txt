@@ -1,0 +1,10 @@
+# Copy this content to a .env file in the same directory
+# API Keys for GenAI Research & Writing Assistant
+
+# Anthropic Claude API Key
+# Get from: https://console.anthropic.com/
+ANTHROPIC_API_KEY=your_claude_api_key_here
+
+# OpenAI API Key  
+# Get from: https://platform.openai.com/
+OPENAI_API_KEY=your_openai_api_key_here 
