@@ -1,0 +1,59 @@
+SENTIMENT ANALYSIS TASKS
+=========================
+
+1. Simple Sentiment Check
+-------------------------
+Read the text and decide if it comes across as positive, negative, or neutral. Add a short explanation for why you judged it that way.
+
+2. Detailed Sentiment Review
+----------------------------
+Look at the text carefully and describe:
+- The general mood (positive, negative, or neutral)
+- The emotional tone (e.g., happy, sad, angry, excited, disappointed)
+- How strong the feeling is (mild, moderate, strong)
+- Phrases that make you think this way
+- If there’s more than one feeling mixed together
+
+3. Sentiment by Category
+------------------------
+Break down the sentiment of the text by these areas:
+- Product or service quality
+- Customer service
+- Value for money
+- Overall experience
+
+For each, say if it’s positive, negative, or neutral, give an example from the text, and mention how sure you are.
+
+4. Comparing Two Texts
+----------------------
+Look at the two texts and explain:
+- Which one is more positive or negative
+- How big the difference is
+- What words or ideas caused the difference
+
+5. Sentiment Over Time
+----------------------
+If you’re given several texts in order (like reviews written across weeks or months):
+- Say what the mood is in each one
+- Explain the overall trend (getting better, worse, or staying the same)
+- Point out big shifts and why they may have happened
+
+6. Industry-Aware Sentiment
+---------------------------
+Judge the text’s sentiment but keep in mind the industry it belongs to (e.g., travel, retail, healthcare). Mention how the tone might affect that industry and what the business should note.
+
+7. Social Media Post
+--------------------
+Check the mood of a social media post or comment. Pay attention to:
+- Emojis, hashtags, and casual style
+- Whether it may be sarcastic or ironic
+- How it might spread (likes, shares, comments)
+
+8. Sentiment With Next Steps
+----------------------------
+Look at the feedback and:
+- Say if it’s positive, negative, or neutral
+- Point out the main issues or positives
+- Mark the priority (high, medium, low)
+- Suggest actions to fix problems or build on praise
+- Add a follow‑up idea if helpful

@@ -1,0 +1,76 @@
+FAQ ANSWERING TASKS
+====================
+
+1. Quick Answer
+---------------
+Give a clear and simple reply to the question. Add a short reason or extra note only if it helps.
+
+2. Step-by-Step
+---------------
+For how‑to questions, start with a short overview, then give steps in order. Add tips or warnings if needed, and what to try if something doesn’t work.
+
+3. Different Situations
+-----------------------
+If the answer changes based on the person or case, explain each scenario separately and why it matters.
+
+4. Simplifying Tech
+-------------------
+If the question is technical, explain it in everyday words. Use examples or comparisons if it helps. Focus on what the user needs to know, not the deep details.
+
+5. Troubleshooting
+------------------
+For problem questions:
+- Say the direct answer first
+- List common causes
+- Suggest fixes to try
+- Note when to get help from support
+- Share tips to avoid the problem later
+
+6. Comparing Options
+--------------------
+If the question asks about two or more choices:
+- Describe each one
+- Highlight main differences
+- Give pros and cons
+- Suggest when each might be best
+- Use a small table if that makes it clearer
+
+7. Policy or Procedure
+----------------------
+When it’s about a rule or process:
+- State the policy simply
+- Say why it exists
+- Who it applies to and any exceptions
+- Where to look for details
+- Who to contact for unusual cases
+
+8. Product or Service
+---------------------
+If the FAQ is about a product or service, give the direct answer, how it works, limits or requirements, and mention related features if useful.
+
+9. Answer with Examples
+-----------------------
+Reply to the question and add a couple of examples to show what you mean. Explain why they fit and how someone could use them.
+
+10. When Escalation is Needed
+-----------------------------
+For tough questions:
+- Answer what you can directly
+- Point out what needs more help
+- Say who to contact
+- Mention what info they’ll need
+- Share how long it might take to fix
+- Suggest temporary workarounds
+
+11. Prerequisites
+-----------------
+If the question needs certain things ready first, list those, then explain the answer step by step. If not ready, explain alternatives.
+
+12. Summary Style
+-----------------
+For big or common questions, structure the answer as:
+- A short reply for quick readers
+- A detailed explanation for those who want more
+- Common follow‑ups with answers
+- Related ideas to check out
+- Best practices or advice
