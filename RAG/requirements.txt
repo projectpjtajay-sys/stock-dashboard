@@ -1,0 +1,5 @@
+openai==1.42.0       # For embeddings and chat completions (use your OpenAI API key)
+faiss-cpu==1.8.0     # FAISS for vector search (use faiss-gpu if you have CUDA)
+PyPDF2==3.0.1        # For PDF parsing
+numpy==1.26.4        # For vector handling
+python-dotenv==1.0.1 # For loading API keys from .env
