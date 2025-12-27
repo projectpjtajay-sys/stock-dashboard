@@ -1,3 +1,0 @@
-LlamaIndex is a powerful framework for indexing and querying documents. 
-LangGraph allows creating agentic workflows using graphs. 
-FastAPI is a fast web framework for building APIs with Python.

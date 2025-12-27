@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-langgraph
-llama-index
-openai
