@@ -1,0 +1,2747 @@
+1  
+II Year I Semsester 
+EECM-211 
+INTRODUCTION TO INFORMATION TECHNOLOGY 
+ 
+1. INFORMATION TECHNOLOGY 
+ 
+ 
+   INTRODUCTION: 
+Information technology (IT) is the use of computers to store, retrieve, transmit, and 
+manipulate data or information. IT is typically used within the context of business operations as 
+opposed to personal or entertainment technologies. IT is considered to be a  subset of information 
+and communications technology (ICT). 
+  Information System 
+An information system is a set of interrelated components  that collect, manipulate, store 
+data and disseminate information and  provide a feedback mechanism to monitor performance. An 
+Information system (IS) is a formal, soci
+<CHUNK_SEPARATOR>
+re 
+data and disseminate information and  provide a feedback mechanism to monitor performance. An 
+Information system (IS) is a formal, sociotechnical, organizational system designed to collect, 
+process, store, and distribute information. In a sociotechnical perspective, information systems are 
+composed by four components: task, people, structure (or roles), and technology. 
+ 
+ Computer and System 
+ 
+ 
+A computer system is a set of integrated devices that input,  output, process, and store data 
+and information. Computer systems  are currently built around at least one digital processing 
+device. There are five main hardware components in a computer system:  Input, Processing, 
+Storage, Ou
+<CHUNK_SEPARATOR>
+ound at least one digital processing 
+device. There are five main hardware components in a computer system:  Input, Processing, 
+Storage, Output and Communication devices. 
+       
+
+2  
+Software and Data Software 
+Software is a set of instructions, data or programs used to  operate computers and execute 
+specific tasks. Opposite of hardware, which describes the physical aspects of a computer, software 
+is a generic term used to refer to applications, scripts and programs that run on a device. 
+ 
+ 
+ 
+ 
+ 
+Data 
+              Data is a set of values of subjects with respect to qualitative or quantitative variables. Data 
+is raw, unorganized facts that need to be processed. When data is processe
+<CHUNK_SEPARATOR>
+ects with respect to qualitative or quantitative variables. Data 
+is raw, unorganized facts that need to be processed. When data is processed, organized, structured or 
+presented in a given context so as to make it useful, it is called information. 
+ 
+IT IN BUSINESS & INDUSTRY 
+ 
+               Information technology fosters innovation in business. Innovation results in smarter apps, 
+improved data storage, faster  processing, and wider information distribution. Innovation makes  
+businesses run more efficiently. And innovation increases value,  enhances quality, and boosts 
+productivity. 
+IT in banking 
+ 
+             Information technology in banking sector refers to the use of sophisticat
+<CHUNK_SEPARATOR>
+ quality, and boosts 
+productivity. 
+IT in banking 
+ 
+             Information technology in banking sector refers to the use of sophisticated information and 
+communication technologies together with computer science to enable banks to offer better services 
+to its customers in a secure, reliable and affordable manner and sustain  competitive advantage over 
+other banks. 
+Banking without computers can't be imagined. A lot of work is done in the computers from 
+transactions to maintaining records.  Recurring deposits (e -RD), Fixed deposi ts (e -FD), money 
+transfer from one account to another (NEFT, RTGS), online transactions are done using  the 
+Internet. 
+IT in insurance 
+3  
+Insurance co
+<CHUNK_SEPARATOR>
+ey 
+transfer from one account to another (NEFT, RTGS), online transactions are done using  the 
+Internet. 
+IT in insurance 
+3  
+Insurance companies use a computer to store data of their  clients. It manages their data and gives 
+them timely notifications for their premium. It allows the user to get a good knowledge over their 
+policy. 
+IT in marketing 
+The computer is very much needed in marketing. The computer is used to create sell 
+advertisements. It is used to monitor  the performance of the product in the market. different 
+illustrations can be made to present the product in an effective and decorative way. 
+ Advertising - With computers, advertising professionals create art and graphi
+<CHUNK_SEPARATOR>
+ to present the product in an effective and decorative way. 
+ Advertising - With computers, advertising professionals create art and graphics, write and 
+revise copy, and print and disseminate ads with the goal of selling more products. 
+ Home Shopping - Home shopping has been made possible  through use of computerized 
+catalogues that provide access to product information and permit direct entry of orders to be 
+filled by the customers. 
+ 
+IT in BPO services 
+ 
+                Business Process Outsourcing (BPO) services mean those  business operations which are 
+performed by an outside service provider. In other words, you can say that some industries take help 
+from other service provide
+<CHUNK_SEPARATOR>
+ which are 
+performed by an outside service provider. In other words, you can say that some industries take help 
+from other service providers to facilitate their work. They heir some outsourcing companies for that 
+work and those outsourcing companies is called BPO (Business Process Outsourcing). 
+ 
+ 
+Some of the BPO services are as follows: 
+ 
+(a) Financial and Accounting Services 
+(b) Taxation and Insurance Services 
+(c) E-Publishing and Web Promotion 
+
+4  
+(d) Legal Services and Content Writing 
+(e) Multimedia and Design Services 
+(f) Document Management Services 
+(g) Software Testing Services 
+(h) Health Care Services 
+ 
+ 
+IT IN HOME & AT PLAY: 
+ 
+ 
+Information technologies aid us in do
+<CHUNK_SEPARATOR>
+ment Services 
+(g) Software Testing Services 
+(h) Health Care Services 
+ 
+ 
+IT IN HOME & AT PLAY: 
+ 
+ 
+Information technologies aid us in doing chores at home in  three principal ways: (1) by 
+controlling the appliances we use for  housework, (2) by establishing local networks for home 
+communications and control, and (3) by directly providing electronic information and transaction 
+services from the home. 
+Using the right kind of technology/games/activities can support the development of your 
+child's learning and skills, including fine motor skills, letter/ number/ shape/ colour recognition, 
+eye-hand co-ordination, reading, writing, planning, problem solving etc. 
+IT in home computing: 
+W
+<CHUNK_SEPARATOR>
+tter/ number/ shape/ colour recognition, 
+eye-hand co-ordination, reading, writing, planning, problem solving etc. 
+IT in home computing: 
+We use a PC (personal computer) at our home. The computer is used in our homes for 
+surfing the internet, making presentations, video, games, etc. 
+ 
+IT in everyday life: 
+In our daily life, most of the equipment we are using is  embedded with software. 
+Microwave has its own software to maintain the temperature and also washing machines, the set-
+top box has software to interact with us and give us a good experience. 
+ 
+ IT IN EDUCATION, WORKPLACE AND TRAINING: 
+ 
+ 
+Using information technology in education has made it possible for students to keep on 
+l
+<CHUNK_SEPARATOR>
+ 
+ 
+ IT IN EDUCATION, WORKPLACE AND TRAINING: 
+ 
+ 
+Using information technology in education has made it possible for students to keep on 
+learning, irrespective of where they  are. Teachers and professors can send assignments to students 
+and they can complete and submit them even without physically stepping into the classrooms and so 
+learning never has to stop. 
+IT in library 
+5  
+ 
+ 
+Nowadays managing books in the library is not such tough  work. Libraries are now 
+computerised. To manage a lot of books  barcodes can be associated with books which make the 
+process easy to keep track of the list of available books and many more. 
+ 
+IT in education 
+ 
+ 
+Information technology IT is very m
+<CHUNK_SEPARATOR>
+ke the 
+process easy to keep track of the list of available books and many more. 
+ 
+IT in education 
+ 
+ 
+Information technology IT is very much used in education  for teaching-learning processes. 
+The software and Hardware made the process of learning very easy. We can see a lot of 
+animations in  educational videos which made studying very interesting. Various  methods of 
+illustrations are now brought to visualize what we are reading in the real world. 
+ 
+a) IT in the classroom 
+ 
+ 
+IT can be used in various ways in schools to handle online  
+classes. 
+ 
+• e-learning classrooms; 
+• smart-board presentations; 
+• videos on experiments; 
+• creation of images and video; 
+• desktop publishing o
+<CHUNK_SEPARATOR>
+
+ 
+• e-learning classrooms; 
+• smart-board presentations; 
+• videos on experiments; 
+• creation of images and video; 
+• desktop publishing of magazines, letters and documents; 
+ 
+ 
+(b) Education — anywhere anytime 
+A lot of books and educational content are now digitalized.  We can get the content 
+whenever we want. Our government is also providing websites to access NCERT books online. 
+ 
+(c) Teaching aids and media 
+ 
+ 
+IT is used mostly as a teaching aid in schools to use pictures, animations and audio-visuals 
+to explain subjects that are difficult to explain, make the lessons interesting using presentations and 
+
+6  
+organize lessons using the computer. 
+ 
+(d) Learning Management System
+<CHUNK_SEPARATOR>
+o explain, make the lessons interesting using presentations and 
+
+6  
+organize lessons using the computer. 
+ 
+(d) Learning Management System (LMS) 
+A Learning Management System (LMS) is being used by  many schools to manage their 
+school system. This system is very useful for managing attendance and result. Is well designed to 
+record students' data in an effective way. 
+IT at workplace 
+ 
+ 
+All the offices are equipped with computers for office automation using various softwares 
+like Microsoft word, Excel and Powerpoint. Most of the work is now done on computers. in offices 
+computers and software makes their work very easy and fast. IT play an important role in e-
+governance. Some major f
+<CHUNK_SEPARATOR>
+ computers. in offices 
+computers and software makes their work very easy and fast. IT play an important role in e-
+governance. Some major fields in this category are: 
+ Budgets 
+ Sales tax department 
+ Income tax department Male/Female ratio 
+ Computerization of voters lists 
+ Computerization of driving licensing system 
+ Computerization of PAN card 
+ Weather forecasting 
+ 
+ 
+ IT IN ENTERTAINMENT & ARTS: 
+ 
+ 
+Entertainment technology helps us relax and enjoy some free time. The latest technology has 
+been revolutionized daily entertainment. Old ways such as recording on records, tapes, and 
+
+7 
+ 
+CDs, have made music across the world. Movies are brought into  living rooms  through 
+p
+<CHUNK_SEPARATOR>
+ays such as recording on records, tapes, and 
+
+7 
+ 
+CDs, have made music across the world. Movies are brought into  living rooms  through 
+photography, film, and video. 
+ 
+IT has substantially changed the field of Graphics Arts. IT  provides a variety of new 
+media for many different artists. Digital  still photography and video are now becoming 
+commonplace. Computers provide powerful tools for editing such photographs and video. 
+ 
+IT in Entertainment 
+One can now download movies, play games, chat, video calls using mobiles and 
+computers. Digital broadcasting has opened a  door to  the world. It changed the television 
+experience. digital programs are now more interactive and use very muc
+<CHUNK_SEPARATOR>
+dcasting has opened a  door to  the world. It changed the television 
+experience. digital programs are now more interactive and use very much graphics designing. 
+ 
+ 
+ 
+IT in Communication 
+In communication, IT has a significant role. One can easily  chat through various 
+platforms. Video calling has now become  easier. IT has really changed the way of 
+communication. 
+ 
+ IT IN SCIENCE, ENGINEERING AND MATHEMATICS 
+ 
+ 
+To use the technology correlatively, for example, data processing, simulation 
+techniques, mathematical model and database etc. Through the process of establishing the 
+mechanism model, using a computer data analysis process in materials scienc e, the model 
+predicts the optim
+<CHUNK_SEPARATOR>
+he process of establishing the 
+mechanism model, using a computer data analysis process in materials scienc e, the model 
+predicts the optimal design to achieve. One of major areas is CAD Computer aided design. That 
+
+8 
+ 
+provides creation and modification of images 
+To do complex scientific calculations, Computer-Aided Design (CAD) or Computer-
+Aided Manufacturing (CAM) Scientists and engineers use software applications. It made their 
+work easy.  drawing and calculation became very easy. Some fields of engineering and 
+mathematics are: 
+ Structural Engineering - Requires stress and strain analysis  for design of Ships, 
+Buildings, Budgets, Airplanes etc. 
+ Industrial Engineering - Compu
+<CHUNK_SEPARATOR>
+ngineering - Requires stress and strain analysis  for design of Ships, 
+Buildings, Budgets, Airplanes etc. 
+ Industrial Engineering - Computers deal with design, implementation and improvement 
+of integrated systems of people, materials and equipment. 
+ Architectural Engineering  - Computers help in planning towns, designing buildings, 
+determining a range of buildings on a site using both 2D and 3D drawings 
+ Discrete mathematics provides an important foundation for  all areas of computer  
+science. Discrete math is used in various areas including computer architecture, 
+algorithms, computer systems, databases, functional programming, distributed systems, 
+machine learning, operating sys
+<CHUNK_SEPARATOR>
+mputer architecture, 
+algorithms, computer systems, databases, functional programming, distributed systems, 
+machine learning, operating systems,  computer security, and networks. There are also 
+many mathematical and statistical software are used to solve the problems. 
+IT in health care 
+Our hospitals are now computerised a lot of healthcare activities are now monitored by 
+computers. Some of the high-level gadgets are made to serve in hospitals. 
+ 
+(i) Computerised Axial Tomography Machine (CAT): 
+Using this machine three-dimensional (3D) images of different parts of the body can be 
+made. These images are helpful in the diagnosis of diseases. 
+ 
+(ii) MRI (Magnetic Resonance Imaging Machi
+<CHUNK_SEPARATOR>
+fferent parts of the body can be 
+made. These images are helpful in the diagnosis of diseases. 
+ 
+(ii) MRI (Magnetic Resonance Imaging Machine): 
+MRI machines are used to provide an image of the internal  organs of the body by using 
+strong magnetic fields and radio waves. The digital images are very helpful in the detection of 
+the disease. 
+ 
+(iii) Electrocardiogram (ECG) Machine: 
+This machine is used to monitor the heartbeat of a person. 
+9 
+ 
+This machine records the electrical impulse. 
+ 
+ 
+(iv) Cardiac Screening Machine: 
+This machine is used to detect the problems related to the heart. 
+It monitors the internal working of the heart. 
+ 
+ 
+(v) EEG (Electro encephalography) Machine: 
+Th
+<CHUNK_SEPARATOR>
+etect the problems related to the heart. 
+It monitors the internal working of the heart. 
+ 
+ 
+(v) EEG (Electro encephalography) Machine: 
+The Electro encephalography machine is used to record the  activities of the brain. This 
+machine works both in the patient is sleeping of awake. 
+Blood Sugar Testing Machine is used to check the sugar  level in blood and Blood 
+Pressure can be checked digitally by the blood pressure measuring machine. 
+ 
+IT tools- Concept & importance, radio, tv, teleconferencing, internet, 
+e-mail, telephone and fax 
+Classification of ICT Tools 
+• ICT could be classified in three categories: 
+1. Physical ICT hardware or Gadgets- include audio-visuals, telephone and 
+comp
+<CHUNK_SEPARATOR>
+f ICT Tools 
+• ICT could be classified in three categories: 
+1. Physical ICT hardware or Gadgets- include audio-visuals, telephone and 
+computers 
+• Television 
+• Cell phones 
+• Modems: A modem is a device that translates signals to and from 
+between two computer devices in a network. 
+• Computers- There is numerous things that computers can do as far as 
+device connectivity, task processing, data management and storage is 
+concerned. The computer connects us to the internet and helps us share  
+information in a network. Other physical  communication technologies 
+(ICT gadgets or hardware) in digital devices include remote controls, 
+keyless entry devices, walkie -talkies, Bluetooth earpiece
+<CHUNK_SEPARATOR>
+hnologies 
+(ICT gadgets or hardware) in digital devices include remote controls, 
+keyless entry devices, walkie -talkies, Bluetooth earpieces, GPS 
+Satellites, CD‘s  DVD‘s, flash drives, tape, compact memory chips.
+  
+2. Non-Physical ICT Software (Virtual Communication Technology): Software and Wireless 
+Network represent ICT Software 
+Software: Software is a program that direct smooth running of a computer system. It can be 
+10 
+ 
+system software  (such as Microsoft operating system) or application software (such as MS 
+Internet Explorer, MS Word, MS Excel etc.). 
+3. Communication Technology Services (ICT Services): Internet and Email services are 
+examples of ICT services. 
+ 
+ICT Equipment
+<CHUNK_SEPARATOR>
+cel etc.). 
+3. Communication Technology Services (ICT Services): Internet and Email services are 
+examples of ICT services. 
+ 
+ICT Equipment for Every Classroom: 
+Ideally, following 10 ICT items, should be features of every classrooms in our educational 
+institutions. While majority of university colleges do possess majority of them but some of them 
+are still just pipedream for many! 
+ 
+ 
+1. A social media output channel to connect with students, parents and fellow classrooms 
+2. A desktop computer to access online resources 
+3. USB or Wifi access for document sharing and device connectivity 
+4. A projector with interactive whiteboard functionality or television screen connectivity. 
+5. A p
+<CHUNK_SEPARATOR>
+ocument sharing and device connectivity 
+4. A projector with interactive whiteboard functionality or television screen connectivity. 
+5. A presentation clicker for classroom mobility. The best one I‘ve found is Logitech 
+which I use for keynotes. 
+6. A visualiser or document camera for displaying student work, or presenting live 
+feedback. 
+7. Tablet devices for teacher and student e.g. iPad 
+ 
+Communication- concept, importance & elements, models of 
+communication and Barriers in communication 
+               
+Concept of communication:  According to Leagans (1961), Communication is the process by 
+which two or more people exchange ideas, facts, feelings or impressions in ways that each gain
+<CHUNK_SEPARATOR>
+gans (1961), Communication is the process by 
+which two or more people exchange ideas, facts, feelings or impressions in ways that each gains 
+a common understanding of the meaning, intent and use of messages. The term 'communication' 
+stems from the Latin word 'communis'-meaning' 'common'. Communication, then, is a conscious 
+attempt to share information, ideas, attitudes and the like with others. 
+Importance of Communication 
+1. Communication establishes a favorable climate in which development can take place. 
+2. Communication has multiplier effect 
+3. Communication varies the aspirations of the people 
+4. Communication is essential for all human activities 
+5. Communication is essential 
+<CHUNK_SEPARATOR>
+. Communication varies the aspirations of the people 
+4. Communication is essential for all human activities 
+5. Communication is essential for good leadership 
+ 
+11 
+ 
+Elements of Communication 
+1. The Communicator 
+          This is the person who starts the process of communication in operation. He is the source 
+or originator of messages. He is the sender of messages. He is the first to give expression to 
+message intended to reach an audience in a manner that result s in correct interpretation and 
+desirable response. When a communicator does not hold the confidence of his audience, 
+communication as conceived will not take place. 
+2. Message or content 
+          A message is the infor
+<CHUNK_SEPARATOR>
+ld the confidence of his audience, 
+communication as conceived will not take place. 
+2. Message or content 
+          A message is the information communicator wishes his audience to receive, understand, 
+accept and act upon. Messages, for example, may consist of statements of scientific facts about 
+agriculture, sanitation or nutrition; description of action being taken by individuals, groups or 
+committees; reasons why certain kinds of action should be taken ; or steps necessary in taking 
+given kinds of action. 
+3. Channels of Communication 
+                  
+          The sender and the receiver of messages must be connected or 'tuned' with each other. For 
+this purpose, channels of com
+<CHUNK_SEPARATOR>
+         
+          The sender and the receiver of messages must be connected or 'tuned' with each other. For 
+this purpose, channels of communication are necessary. They are the physical bridges between 
+the sender and the receiver of messages-the avenues between a communicator and an audience 
+on which messages travel to and fro. They are the transmission lines used for carrying messages 
+to their destination. Thus, the channels serve as essential tools of the communicator. 
+       A channel may be anything used by a sender of messages to connect him with intended 
+receivers. The crucial point is that he must get in contact with his audience. The message must 
+get through. 
+ 
+4. Treatment 
+<CHUNK_SEPARATOR>
+ith intended 
+receivers. The crucial point is that he must get in contact with his audience. The message must 
+get through. 
+ 
+4. Treatment of Messages 
+          Treatment has to do with the way a message is handled to get the information across to an 
+audience. It relates to the technique, or details of procedure, or manner of performance, essen tial 
+to expertness in presenting messages. Hence, treatment deals with the design of methods for 
+presenting messages. Designing the methods for treating messages does not relate to formulation 
+of the message or to the selection of channels, but to the tech nique employed for presentation 
+within the situation provided by a message and a channel.
+<CHUNK_SEPARATOR>
+ or to the selection of channels, but to the tech nique employed for presentation 
+within the situation provided by a message and a channel.  
+          The purpose of treatment is to make the message clear, understandable and realistic to the 
+audience. Designing treatment usually requires original thinking,  deep insight into the principles 
+of human behaviour and skill in creating and using refined techniques of message presentation. 
+5.The Audience 
+           An audience is the intended receiver of message. It is the consumer of messages. It is the 
+intended respondent in message sending, and is assumed to be in a position to gain economically, 
+socially or in other ways by responding t
+<CHUNK_SEPARATOR>
+
+intended respondent in message sending, and is assumed to be in a position to gain economically, 
+socially or in other ways by responding to the message in particular ways. In good 
+communication the communicator already identifies the audience aims. 
+         The impo rtance of clearly identifying an audience cannot be over -stressed. The more 
+homogeneous an audience, the greater the chances of successful communication. Likewise, the 
+12 
+ 
+more a communicator knows about his audience and can pin -point its characteristics the m ore 
+likely he is to make an impact. 
+The following are some of the issues to clarify the nature of audience: 
+ Communication channels established by the social 
+<CHUNK_SEPARATOR>
+ake an impact. 
+The following are some of the issues to clarify the nature of audience: 
+ Communication channels established by the social organisation. 
+ The system of values held by the audience-what they think is important. 
+ Forces influencing group conformity-custom, tradition etc. 
+ Individual personality factors-susceptibility to change etc. 
+ Native and acquired abilities. 
+ Educational, economic and social levels. 
+ Pressure of occupational responsibility-how busy or concerned they are. 
+ People's needs as they see them, and as the professional communicator sees them. 
+ Why the audience is in need of changed ways of thinking, feeling and doing. 
+ How the audience views the
+<CHUNK_SEPARATOR>
+ssional communicator sees them. 
+ Why the audience is in need of changed ways of thinking, feeling and doing. 
+ How the audience views the situation. 
+            It is useful to a communicator to understand thes e and other traits of an audience in 
+making his plan for communication. 
+ 
+6.Audience Response 
+         
+ This is the terminating element in communication applied to rural development programmes. 
+Response by an audience to messages received is in the form of some kind of action of some 
+degree, mentally or physically. Action, therefore, should be viewed as a product, not as a 
+process; it should be dealt with as an end, not as a means. Consequently, the five elements hither 
+to
+<CHUNK_SEPARATOR>
+uld be viewed as a product, not as a 
+process; it should be dealt with as an end, not as a means. Consequently, the five elements hither 
+to analysed  viz., communicator, message, channel, treatment and audience are intended to be 
+viewed as an organised scheme (means) for attaining the desired action (end) on the part of an 
+intended audience. 
+ 
+COMMUNICATION MODELS 
+ 
+Fig.1. Aristotle's Model of Communication 
+ 
+Fig.1. Aristotle Model 
+Aristotle’s Model of Communication (Devito, 1978)  
+            The earliest model of communication was the symmetrical and simple model developed 
+by the great Greek philosopher Aristotle some 2000 years before. Aristotle in his model includes 
+the fi ve e
+<CHUNK_SEPARATOR>
+al and simple model developed 
+by the great Greek philosopher Aristotle some 2000 years before. Aristotle in his model includes 
+the fi ve essential elements of communication, i.e., the speaker, the speech or message, the 
+audience, the occasion, and the effect. In his rhetoric, Aristotle advises the speaker on 
+
+13 
+ 
+constructing a speech for different audiences on different occasions for differe nt effects. This 
+model is most applicable to public speaking. 
+ 
+2.Lasswell's Model(1948) 
+             Lasswell has given us another simple model. His model belongs specifically to the area 
+of mass communication. He argued that to understand the process of mass communication one 
+needs to study
+<CHUNK_SEPARATOR>
+ belongs specifically to the area 
+of mass communication. He argued that to understand the process of mass communication one 
+needs to study each of the stages in his mode. "Who says what, in which channel, to whom, and, 
+with what effect." 
+Fig.2. Lasswell's Model 
+ 
+ 
+ 
+3.Shannon and Weaver Model (1949)   
+          The preconceptions of the academic field of ma ss communication were heavily influenced 
+by the engineering model of Shannon and Weaver (1949) Communication was conceived as a 
+linear act of transmission of a message from a source to a receiver via a signal producing 
+transmitter. A component called 'nois e' acknowledged the presence of context in the electrical 
+engineering mo
+<CHUNK_SEPARATOR>
+iver via a signal producing 
+transmitter. A component called 'nois e' acknowledged the presence of context in the electrical 
+engineering model. 
+ 
+          .        
+ 
+ 
+Fig.5. Shannon and Weaver Communication Model 
+ 
+          Claude Shannon and Warren Weaver gave this model. As the diagram above indicates, this 
+communication model comprises four elements. A source of information, with a greater or lesser 
+number of messages to communicate; a transmitter or sender with the capacity to transform a 
+message into a signal; a receiver which decodes the signal in order to retrieve the initial message, 
+and finally, the destination, a person or thing for whom the message is intended. Communic
+<CHUNK_SEPARATOR>
+signal in order to retrieve the initial message, 
+and finally, the destination, a person or thing for whom the message is intended. Communication, 
+according to this model, follo ws a simple left to right process. The information source (say 
+
+14 
+ 
+speaker), selects a desired message from all the possible messages. The message is sent through 
+a transmitter (microphone) and is changed into signals. A receiver (say earphone), changed back 
+into a message and given to the destination, a listener, receives the signals. In the process of 
+transmission, certain distortions are added to the signal which are not part of the message and 
+these will be called noise.  
+ 
+ 
+ 
+4.C.E. Osgood - Schramm M
+<CHUNK_SEPARATOR>
+ain distortions are added to the signal which are not part of the message and 
+these will be called noise.  
+ 
+ 
+ 
+4.C.E. Osgood - Schramm Model (1975) 
+          To the circular model, we have added boxes and arrows showing the influence of noise 
+and personality are a helix used as a model by Frank E.X. Dance. He felt that circular models 
+were better than straight - lines ones like Shannon- Weaver, but that they had a built in error 
+since they showed communication ending up where it started off. In fact as an act of 
+communication goes on, the noise gets less (because the communicators get more used to 
+handling the channel / model) and personality becomes more helpful (because, as commu
+<CHUNK_SEPARATOR>
+gets less (because the communicators get more used to 
+handling the channel / model) and personality becomes more helpful (because, as communicators 
+get to know each other and the subject, they adjust to each other and fill gaps in their 
+knowledge). 
+  
+ 
+ 
+ 
+ 
+ 
+Fig .6.C.E. Osgood-Schramm Communication model 
+ 
+ 
+6. David Berlo's Model (1960) 
+          In the last twenty-five years, a number of models of communication have been developed 
+by communicologists, each one expanding the earlier presentation. David Berlo's model is one 
+among them, which has been profusely quoted and frequently mentioned in discussions. In his 
+book, ―The Process of Communication‖ written in 1960, he presented
+<CHUNK_SEPARATOR>
+as been profusely quoted and frequently mentioned in discussions. In his 
+book, ―The Process of Communication‖ written in 1960, he presented this model which has a 
+close similarity to the earlier Aristotelian model, including the traditional elements of source, 
+message, channel and receiver.  Berlo's model attempts to explain the various components in the 
+communication process. For each of these basic components, controlling factors were listed. 
+            . 
+
+15 
+ 
+ 
+  
+ 
+           
+          His model reinforced a shift away from views of communication that emphasized the 
+transmission of information to perspectives that focused on the interpretation of information. 
+Berlo writes, ―P
+<CHUNK_SEPARATOR>
+cation that emphasized the 
+transmission of information to perspectives that focused on the interpretation of information. 
+Berlo writes, ―People can have similar meanings only to the extent that they have had similar 
+experiences‖. Berlo also felt that human communication always had a purpose "our  basic 
+purpose in communication is to become an affecting agent, to affect others, our physical 
+environment, and ourselves. We communicate to influence to affect with intent". 
+ 
+ Feed Back in Communication 
+            Feedback as a concept was developed in the 1940s and 1950's, when scientists began 
+looking at the world in terms of systems model. They were interested in the nature of the 
+sys
+<CHUNK_SEPARATOR>
+ the 1940s and 1950's, when scientists began 
+looking at the world in terms of systems model. They were interested in the nature of the 
+systems, the applicability of system model to both the physical and social world. 
+            Feedback is thus defined as information regarding actual performance or the result of the 
+activities of a system. Not all information is feedback; only information which is used to control 
+the future functioning of the system is considered feedback. 
+            A system is a mechanis m which obtains inputs from a larger environment, subjects the 
+input to a transformation process, and then produces output. In this model, feedback is 
+controlling information cha
+<CHUNK_SEPARATOR>
+ironment, subjects the 
+input to a transformation process, and then produces output. In this model, feedback is 
+controlling information channel which connects the system's output with its input. 
+Importance of feedback 
+1. Feedback is a basic component of self regulating system 
+2. Feedback is information about the output of a system which controls the system input or 
+transformation processes 
+3. Feedback is any information about the system functioning which has the potential of be ing used 
+to change the operation of the system. 
+4. Viewing organizations as open systems, feedback is a necessary component, enabling the 
+correction of errors, the adaptation to environmental change and learn
+<CHUNK_SEPARATOR>
+ons as open systems, feedback is a necessary component, enabling the 
+correction of errors, the adaptation to environmental change and learning. 
+
+16 
+ 
+5. Since in social systems such as work organizat ions, feedback does not automatically create 
+change in the system operation, the process of obtaining, interpreting and using feedback 
+information is important. 
+6. Since organizations often ignore feedback or do not make an effort to use feedback effectively,  
+organizational development activities serve an important function of facilitating feedback 
+processes, thus helping organizations to correct errors, adapt, learn and grow. 
+ 
+Barriers in communication: 
+           During communicati
+<CHUNK_SEPARATOR>
+processes, thus helping organizations to correct errors, adapt, learn and grow. 
+ 
+Barriers in communication: 
+           During communication we often hear people say that there was some misunderstanding, 
+which mean the  receiver has not understood properly what the sender wants to communicate. 
+Such misunderstanding or misinterpretation happens because of some obstacle or barriers 
+in communication. In technical terms anything that obstructs free flow of  communication is 
+called as noise. As the  process of communication  involves sender  channels and receiver, the 
+problems of communication could be with either one or more of them. 
+The barriers of communication may be classified accord
+<CHUNK_SEPARATOR>
+d receiver, the 
+problems of communication could be with either one or more of them. 
+The barriers of communication may be classified according to 
+1. Phases of communication 
+2. Type of problems and 
+3. Nature of problems 
+ 
+According to phases of communication 
+Every communication process has at least three phases. Common problems being faced at each 
+phase of communication are as follows 
+1. Relating to communicator 
+2. Relating to the transmission of message 
+3. Relating to receiver 
+1.Relating to communicator 
+1. Ineffective environment : The environ ment created by the communicator influences his 
+effectiveness. The physical facilities, air of friendliness, respect for other's view, 
+r
+<CHUNK_SEPARATOR>
+n ment created by the communicator influences his 
+effectiveness. The physical facilities, air of friendliness, respect for other's view, 
+recognition of accomplishments of others, permissiveness and rapport in general are all 
+important ingredients of climate conductive to effective communication. 
+2. Unorganised efforts to communicate: To make sense, the communication efforts must be 
+organized according to some specific form or pattern. Unorganised efforts will distort 
+the message and it will not reach its destination as intended. 
+3. Standard of correctness : This involves the proper selection of the  message and its level 
+of accuracy. The  message must have correct contents or facts. 
+<CHUNK_SEPARATOR>
+rectness : This involves the proper selection of the  message and its level 
+of accuracy. The  message must have correct contents or facts. Communicator must be 
+very careful in selecting and testing the local applicability of this message. 
+17 
+ 
+4. Standard of  social reponsibility: This refers to that when one communicates; one 
+assumes responsibility for the effect of one's  communication on the respondents and the 
+society. Awareness of this fact will force the communicator to be more careful, serious 
+and honest. 
+5. Cultural values and  social organizations: Cultural values and the  social organizations 
+are determinants of  communication. Communicator must have the  knowledge of the 
+<CHUNK_SEPARATOR>
+anizations: Cultural values and the  social organizations 
+are determinants of  communication. Communicator must have the  knowledge of the 
+cultural and social values of these listeners for an effective communication. 
+6. Inaccurate symbols: The systems of symbols used to represent ideas, objects or concepts 
+must be accurate and used skillfully. The crucial point in the use of the symbols to 
+convey idea is to select those that accurately represent the idea to be conveyed and are 
+understood by the audience. Symbols are meaningful to a person only when he 
+understands what they stand for. 
+7. Wrong concept of communication process: A common mistake committed by the 
+communicator is the ide
+<CHUNK_SEPARATOR>
+ he 
+understands what they stand for. 
+7. Wrong concept of communication process: A common mistake committed by the 
+communicator is the identification of the part with the whole or the 'part fallacy'. 
+Successful communication in programme of rural development is not a single unit. It 
+requires a series of unit acts. The way one thinks about  communication will influence its 
+quality. 
+2.Relating to the transmission of message  
+         Many obstructions can occur at the interpretation level. These are often referred to as 
+‗noise‘ that is some obstruction that prevents the  message from being heard by or carried over 
+clearly to the audience. 
+         Noise emerges from a wide range of s
+<CHUNK_SEPARATOR>
+tion that prevents the  message from being heard by or carried over 
+clearly to the audience. 
+         Noise emerges from a wide range of sources and causes which affect the interpretation of 
+the message. 
+1. Wrong handling of the  channels: If a meeting, tour, radio programme  or 
+other channels are not used according to good procedure and technique, their 
+potential for carrying a message is dissipated. 
+2. Wrong selection of  channels: All  channels are not equally useful in attaining a 
+specific objective. Failure to select  channels appropriate to the objective of a 
+Communicator will interrupt t he interpretation of the  message in a desired way to 
+the intended audience. 
+3. Physica
+<CHUNK_SEPARATOR>
+ the objective of a 
+Communicator will interrupt t he interpretation of the  message in a desired way to 
+the intended audience. 
+3. Physical distraction:  Failure to avoid physical distractions often obstructs 
+successful message sending, because they create  physical barriers  between the 
+communicator and the audience. 
+4. Use of inadequate  channels in parallel: The more  channels a communicator uses 
+in parallel or at about the same  time the more chances has he for 
+the message getting through and being properly received. 
+ 
+18 
+ 
+3. Relating to receiver 
+1. Attention of the listeners: An unfortunate tendency of the people is not to give undivided 
+attention to the communicator. This i
+<CHUNK_SEPARATOR>
+ceiver 
+1. Attention of the listeners: An unfortunate tendency of the people is not to give undivided 
+attention to the communicator. This is a powerful obstruction for the communicator, 
+which prevents the message from reaching their desired destination. 
+2. Problem of cooperation, participation and involvement : Both the communicator and 
+the receiver must be brought into act. Hence, the listener must work a little; learning is an 
+active process on the part of the listeners. Unless the listener is on the same wave -length, 
+the character 0; what is sent out hardly governs the  communication process. So, it takes 
+both the communicator and the listener to make communication. 
+3. Problem of
+<CHUNK_SEPARATOR>
+nt out hardly governs the  communication process. So, it takes 
+both the communicator and the listener to make communication. 
+3. Problem of homogeneity : The more homogeneous the audience is t he greater are the 
+chances of successful  communication. Likewise, the more a communicator knows about 
+his audience and pinpoints its characteristics, the more likely is he to make an impact. 
+4. Attitude of the audience towards the communicator : An important but little studied 
+factor in the effectiveness of  communication is the attitude of the audience towards the 
+communicator. Indirect data on this problem come from studies of 'prestige' in which 
+subjects are asked to indicate th eir agreemen
+<CHUNK_SEPARATOR>
+ds the 
+communicator. Indirect data on this problem come from studies of 'prestige' in which 
+subjects are asked to indicate th eir agreement with statements which are attributed to the 
+different individuals. 
+Audio visual aids- meaning, importance and classification 
+ Meaning of Audio -Visual Aids: Audio- visual aids  are instructional devices which are 
+used to communicate messages more effectively through sound and visuals. 
+          Audio-visual aids help in stimulating the sensory organs like ears and eyes and facilitate 
+quick comprehension of the message by the audience. These may be used for literate as well as 
+for illiterate people. 
+What is audio? 
+          Audio means what we 
+<CHUNK_SEPARATOR>
+e message by the audience. These may be used for literate as well as 
+for illiterate people. 
+What is audio? 
+          Audio means what we hear. The five senses audio, visual, touch, smell and taste plays an 
+important role in communicating message. Heari ng plays an important role in receiving and 
+sending a message effectively. The most basic form of communication is oral and face to face 
+contact. Hearing plays an important role in oral -face to face communication. In recent days due 
+to the invention of mod ern gadgets like radio, tape recorder, public address system telephones 
+and mobile phones the type of communication is more of an indirect type as the individuals do 
+not face each 
+<CHUNK_SEPARATOR>
+lic address system telephones 
+and mobile phones the type of communication is more of an indirect type as the individuals do 
+not face each other. People in such situations communicate without coming into close proximity. 
+What are audio aids? 
+Audio Aids are the instructional devices through which the message can only be heard. 
+Or 
+An audio aid is an instructional device in which the message can be heard but not seen. 
+19 
+ 
+What is visual? 
+           A visual is what can be seen. 
+          Visual helps one to communicate more effectively. Out of the five physical senses through 
+which we learn, the eye is the  most helpful  in learning. Wor ds are not enough for 
+communicating an idea. 
+<CHUNK_SEPARATOR>
+ five physical senses through 
+which we learn, the eye is the  most helpful  in learning. Wor ds are not enough for 
+communicating an idea. The same word may even mean different things to different people. We 
+speak different languages and so, many times communication becomes difficult. 
+What are visual aids? 
+          Visual Aids are the instructional devices which help to visualize the message. 
+Or 
+          A visual aid is an instructional or communicating device in which the message can be seen 
+but not heard. 
+What is audio-visual? 
+          Audio-visual means the things which we hear as well see. 
+What are Audio-visual aids? 
+          Audio-visual aids or devices or technological m
+<CHUNK_SEPARATOR>
+o-visual means the things which we hear as well see. 
+What are Audio-visual aids? 
+          Audio-visual aids or devices or technological media or  learning devices are added devices 
+that help the teacher to clarify, establish, co -relate and co -ordinate accurate concepts, 
+interpretations and appreciations and enable the learner to make  learning more concrete, 
+effective, interesting, inspirational, meaningful and vivid. 
+Or in other words 
+          Audio-visual aids are used to improve  teaching, i.e. to increase the concreteness, clarity 
+and effectiveness of the ideas and skills being transferred. They enable the audience to LOOK, 
+LISTEN and LEARN ( by doing ); to learn faster, to 
+<CHUNK_SEPARATOR>
+ectiveness of the ideas and skills being transferred. They enable the audience to LOOK, 
+LISTEN and LEARN ( by doing ); to learn faster, to learn more, to learn thoroughly and to 
+remember longer. 
+           According to an old Chinese proverb the  importance of audio -visual aids is indicated by 
+the saying that “if I hear I forget, if I see I remember, if I do I know.” 
+           The audio-visual aids help in completing the triangular process of learning, motivation, 
+clarification-stimulation. 
+           The aim of teaching with technological media is clearing the channel between the learner 
+and the things that are worth  learning. The basic assumption underlying Audio -Visual Aids is
+<CHUNK_SEPARATOR>
+ is clearing the channel between the learner 
+and the things that are worth  learning. The basic assumption underlying Audio -Visual Aids is 
+that learning and clear understanding -stems from sense of experience. The  teacher must ‗show‘ 
+as well as ‗tell‘. 
+           Audio –Visual aids provide significant gains in informational  learning, retention, recall, 
+thinking, reasoning, act ivity, interest, imagination, better assimilation, personal growth and 
+20 
+ 
+development. The aids are the stimuli for learning ‗why’, ‘how’, ‘when’ and ‘where’. The ‗hard 
+to understand principles are usually made clear by the intelligent use of skillfully designed 
+instructional aids. 
+           It must be 
+<CHUNK_SEPARATOR>
+ 
+to understand principles are usually made clear by the intelligent use of skillfully designed 
+instructional aids. 
+           It must be remembered that Audio -visual aids can only  supplement the teacher but can 
+never supplant the teacher. 
+Definitions of Audio-Visual aids:  
+According to Audio -Visual Aids: The instructional devices through which the message can be 
+heard and seen simultaneously are known as Audio-Visual Aids 
+According to Burton:  Audio-Visual aids are those aids which help in completing the triangular 
+process of learning i.e., motivation, classification and stimulation 
+According to Edgar Dale:  Audio-Visual are those devices by the use of which communicat ion 
+of i
+<CHUNK_SEPARATOR>
+otivation, classification and stimulation 
+According to Edgar Dale:  Audio-Visual are those devices by the use of which communicat ion 
+of ideas between persons and groups in various  teaching and training situations is helped. These 
+are also termed as multi-sensory materials 
+Good’s Dictionary of E ducation: Audio-Visual aids are anything by means of 
+which learning process may be encouraged or carried on through the sense of hearing or sense of 
+sight 
+According to Kinder; S. James:  Audio-Visual aids are any device which can be used to make 
+the learning experience more concrete, more realistic and more dynamic 
+According to Mcknown and Roberts:  Audio-Visual aids are supplementary devic
+<CHUNK_SEPARATOR>
+ning experience more concrete, more realistic and more dynamic 
+According to Mcknown and Roberts:  Audio-Visual aids are supplementary devices by which 
+the teacher; through the utilization of more than one sensory channels is able to clarify, establish 
+and correlate concepts, interpretations and appreciations. 
+Audio-visual a ids are also known as  Teaching aids, Educational Communication Technology, 
+Audio—Visual Media, Learning Resources and Instructional or Educational Media. 
+Importance of Audio-Visual Aids 
+           Instructional tools like books and black –board were thought to be sufficient in the 
+beginning and apparently they served the purpose t ill human knowledge grew out of 
+<CHUNK_SEPARATOR>
+s and black –board were thought to be sufficient in the 
+beginning and apparently they served the purpose t ill human knowledge grew out of all 
+proportions to be acquired by single person in his life. Educators came face to face with the 
+problem of speeding up the process of imparting maximum amount of knowledge in shortest 
+possible time. This speeding up proces s is essential for various reasons. Two most important 
+reasons among others are 
+1. In scientific investigation and research, it is necessary for a single individual to know 
+more about several other branches of knowledge which help to promote the investigation  
+of or for research in a particular specific problem. 
+2. In time of
+<CHUNK_SEPARATOR>
+al other branches of knowledge which help to promote the investigation  
+of or for research in a particular specific problem. 
+2. In time of emergency like war, a great many people must be trained in technical aspects 
+of war in shortest possible time. 
+21 
+ 
+Now it has been established beyond doubt that use of Audio visual aids contribute directly in 
+improving the effectiveness of learning, in teaching and training situations. 
+Though the communication media are obvious potent forces in our society today, we are yet to 
+use them seriously for making the teaching and learning process more interesting, more effective 
+and more permanent. 
+Audio visual materials can bring the world into the c
+<CHUNK_SEPARATOR>
+e teaching and learning process more interesting, more effective 
+and more permanent. 
+Audio visual materials can bring the world into the class room. The most abstract concepts can 
+be presented in vivid concrete forms that are easily grasped by the  learners. They provide the 
+learner with a good substitute for first -hand experience. 
+The task befor e the teacher, trainer and extension worker today is so broad in scope and so 
+complicated in character that every tested and approved method of  teaching must be utili zed in 
+order to equip  learners with certain skills, concepts and attitudes besides the ability to think 
+critically. 
+Motivation is a power full force in the  learning proces
+<CHUNK_SEPARATOR>
+h certain skills, concepts and attitudes besides the ability to think 
+critically. 
+Motivation is a power full force in the  learning process. Since audio visual materials motivate 
+and help  learning, they are im portant in any scheme of educational activity, either formal or 
+informal type. 
+Classification of Audio-visual aids: 
+          Audio-visual aids are classified into three categories: 
+Audio aids Visual aids Audio- visual aids 
+1. Tape recorder 
+2. Public address 
+system 
+3. Telephone 
+4. Radio 
+Non-Projected 
+1. Chalk board 
+2. Bulletin board 
+3. Picture board and 
+photograph and 
+Illustrations 
+4. Flannel graph, flash 
+card, flip chart 
+5. Poster 
+6. Diagram, map, chart and 
+gra
+<CHUNK_SEPARATOR>
+ 
+3. Picture board and 
+photograph and 
+Illustrations 
+4. Flannel graph, flash 
+card, flip chart 
+5. Poster 
+6. Diagram, map, chart and 
+graph 
+7. Specimen, 
+model, diorama 
+8. Translide 
+Projected 
+1. Slides 
+2. Filmstrip 
+3. Opaque projection 
+4. Overhead projection 
+Non- Projected 
+1. Drama, puppet show, 
+talking doll 
+Projected 
+1. Motion picture(cinema) 
+2. Video 
+22 
+ 
+ 
+Cone of experience 
+Cone of experience 
+It is devised by Edgar Dale in explaining the inter relationships of various types of audio-visual 
+materials. As well as their individual position in the learning process. 
+In this cone each division represents a stage between the two extremes direct experience at the 
+base, and
+<CHUNK_SEPARATOR>
+osition in the learning process. 
+In this cone each division represents a stage between the two extremes direct experience at the 
+base, and pure abstraction at the apex. It may be stated that the ‗cone‘ classifies the audio-visual 
+aids according to their effectiveness in communication. 
+1. Direct, purposeful experience: It is the unabridged version of life itself, with three elements 
+directness, purposefulness and responsibility for the outcome. The experiences gained through the 
+senses are direct and purposeful. It has been amply observed, ‗‘An ounce of experience is better 
+than a tone of theory, simply because it is only as an experience that any theory has vital and 
+verifiable signi
+<CHUNK_SEPARATOR>
+e of experience is better 
+than a tone of theory, simply because it is only as an experience that any theory has vital and 
+verifiable significance.‘‘ This direct experience is gained through the aids mentioned at the base 
+of the cone. 
+2. Contrived Experiences: when the real thing cannot be perceived directly, its simplification 
+becomes necessary. Contrived experience is like a working model which is an editing of reality 
+and differs from the original either in size or in complexity. The real object may be too small or 
+too big, may be confused or concealed. In such a situation, imitation is preferred for better and 
+easier understanding Eg: models of animals and mock-ups of machinery. 
+
+<CHUNK_SEPARATOR>
+ncealed. In such a situation, imitation is preferred for better and 
+easier understanding Eg: models of animals and mock-ups of machinery. 
+3. Dramatized Experiences: Means participating in a reconstructed experience 
+eg: dramas, puppet shows 
+4. Demonstrations 
+5. Field trips 
+6. Exhibits 
+7. a. Television 
+b. Motion picture or Films 
+8. a. Radio 
+b. Recordings 
+9. Still pictures 
+a. Non- projected 
+b. Projected 
+10. Visual symbols 
+11. Verbal symbols 
+ 
+Criteria for selection of audio visual aids 
+Factors influencing in selection of Audio-Visual Aids 
+Audio-visual aids are used singly or in combination, taking the following factors into 
+consideration 
+23 
+ 
+1. The teaching objective: i.e.
+<CHUNK_SEPARATOR>
+Audio-visual aids are used singly or in combination, taking the following factors into 
+consideration 
+23 
+ 
+1. The teaching objective: i.e. the type of behaviour change you want to bring ab out like 
+gaining information or changing attitude or learning some skill. 
+2. The nature of the subject matter being taught 
+3. The nature of audience:  like age level, educat ional level, interest, experience, 
+knowledge of the subject, intelligence 
+4. The nature of audience:  eg., Flash card can be used for a small audience only but, 
+motion picture can be used for a large audience 
+5. Relative cost of the various aids: Effective aids need not necessarily be expensive 
+ Relative cost of the various 
+<CHUNK_SEPARATOR>
+or a large audience 
+5. Relative cost of the various aids: Effective aids need not necessarily be expensive 
+ Relative cost of the various aids  The teacher‘s familiarity with and skill in using 
+the several aids 
+ Teacher originality and skill in selection, preparation and use of aids 
+ 
+6. The availability:  the teacher should make use of indigenous materials, when 
+the teaching aid she/he would like to use is not available 
+ 
+Criteria and principles of preparing following aids: charts & posters, flip 
+book, leaflet, folder, pamphlet 
+Chart: Diagrammatic representation of facts or ideas, visual symbols for summarizing 
+comparing, contrasting and performing other services in explaining su
+<CHUNK_SEPARATOR>
+atic representation of facts or ideas, visual symbols for summarizing 
+comparing, contrasting and performing other services in explaining subject matter can help to 
+communicate difficult, dull subject in interesting way. 
+Purpose of charts 
+1. To show relationships by means of facts, figures or statistics 
+2. To present materials symbolically 
+3. To summarize information 
+4. To show continuity in process 
+5. To present abstract ideas in visual form 
+6. To show the development of structures 
+7. To create problems and to stimulate thinking 
+8. To encourage utilization of other media of communication 
+9. To motivate the students 
+ 
+Types of charts 
+ 
+1. Line charts (or Line graphs) 
+2. Bar cha
+<CHUNK_SEPARATOR>
+e utilization of other media of communication 
+9. To motivate the students 
+ 
+Types of charts 
+ 
+1. Line charts (or Line graphs) 
+2. Bar charts (or Bar graphs) 
+24 
+ 
+3. Flow charts 
+4. Tree chart or stream charts 
+5. Strip tease chart or Suspense chart 
+6. Pictorial graphs (or picot graphs) 
+Flip chart 
+Consists of series of individual charts which are tacked or bound together and hung on a 
+supporting stand. These individual charts carry a series of related messages in sequence. The 
+teacher flips them one after another, as the lesson or story progresses. To be effective, a flip chart 
+should deal with only one broad theme and give only this salient point without too much data or 
+details.
+<CHUNK_SEPARATOR>
+es. To be effective, a flip chart 
+should deal with only one broad theme and give only this salient point without too much data or 
+details. 
+Suggestions for making effective charts are 
+7. Keep them simple, develop only one idea 
+8. Make as few comparisons as possible 
+9. Allow plenty of space 
+10. Maintain logical order in presenting 
+11. Prepare charts pleasing to view 
+12. Use symbols, words or colours to explain the chart 
+13. Use lines and bars in only one dimension 
+14. Compare like units and avoid comparing unrelated units 
+ 
+Poster  
+Poster is a placard displayed in a public place with the purpose of creating awareness amongst 
+the people. 
+A poster is generally seen from a distance
+<CHUNK_SEPARATOR>
+ placard displayed in a public place with the purpose of creating awareness amongst 
+the people. 
+A poster is generally seen from a distance and person glancing at it seldom has the time or 
+inclination to stop and read. The job of the poster is to stop the hurriedly passing persons, thrust 
+the message upon them quickly and lead them to action immediately or eventually. 
+The standard sizes of posters are 26X38 cm, 38X51cm, 46X56 cm, 51X77 cm. 
+A good poster should have the following properties 
+1. It must be able to attract attention 
+2. It must convey the message quickly 
+3. It must lead to action 
+The A B C„s of poster making are, 
+make it: 
+Attractive 
+Brief 
+Clear 
+Components in a poste
+<CHUNK_SEPARATOR>
+the message quickly 
+3. It must lead to action 
+The A B C„s of poster making are, 
+make it: 
+Attractive 
+Brief 
+Clear 
+Components in a poster 
+25 
+ 
+1. Picture or Illustration: 
+It should be such as to bring out the message clearly at a glance. If it is a drawing, the 
+actual thing be shown should be brought out in bold relief. Avoid unnecessary details so 
+that the viewer‘s attention is not confused. If you use a photograph, avoid unwanted 
+surroundings and bring out the point prominently. While preparing illustrations keep in 
+mind the experience of the audience and use objects familiar to them. 
+2. Caption in words: 
+ 
+The caption should be as small as possible. A five word caption is the
+<CHUNK_SEPARATOR>
+e audience and use objects familiar to them. 
+2. Caption in words: 
+ 
+The caption should be as small as possible. A five word caption is the best. Never write 
+the caption vertically as it creates difficulty in reading. Do not break the caption. 
+3. Colour: 
+Use bright attractive colours. The centre core can be highlighted with a more prominent 
+colour. Even in the caption some prominent word can be given a different colour. Do not 
+use more than three colours, otherwise it may be confusing. Do not use odd combinations 
+of colours. 
+4. Space: 
+If a poster is loaded with pictures and words the viewer gets lost. So provide adequate 
+space. 
+5. Layout: 
+It should be well balanced so that the vi
+<CHUNK_SEPARATOR>
+r is loaded with pictures and words the viewer gets lost. So provide adequate 
+space. 
+5. Layout: 
+It should be well balanced so that the viewer‘s eyes can travel smoothly and quickly 
+through the caption and illustration. It should hold his attention and clearly bring out the 
+message to the viewer. 
+ 
+6. Check: 
+After the rough layout is complete show it to some people of the level of your audience. 
+If there is any misconception or ambiguity, remove it. 
+The poster should recommend action. It should be placed where people pass or gather. It 
+should give only one idea and details should be given through other media. 
+In general a poster should contain three main divisions. The first part u
+<CHUNK_SEPARATOR>
+ve only one idea and details should be given through other media. 
+In general a poster should contain three main divisions. The first part usually announces the 
+purpose of a project or programme. The second sets out conditions. The third recommends 
+actions. 
+Boy or Girl- 
+Equal for Nation’s Development 
+- Do not discriminate us ! 
+26 
+ 
+ 
+Points to be considered when making a poster: 
+1. Support local demonstration, exhibits or activities contain dramatic pictures that will 
+cause people to stop and look 
+2. Tell the story at a glance, use 
+3. One idea 
+4. Few words 
+5. Plain, bold lettering and lines 
+6. Simple colours – not more than three 
+7. Plenty of everyday living 
+8. Must be timely
+<CHUNK_SEPARATOR>
+ 
+4. Few words 
+5. Plain, bold lettering and lines 
+6. Simple colours – not more than three 
+7. Plenty of everyday living 
+8. Must be timely 
+9. Must be large enough to be easily seen -22‘‘*28‘‘, 28‘‘*44‘‘ etc. 
+10. Place posters where people pass or where people gather. Follow it with other device such 
+as meetings, demonstrations, films, etc. 
+Some extra hints 
+Decide exactly who your audience is 
+ Put down on a sheet of paper words and rough pictures that express your message simple 
+and clearly 
+ Try to put your message into viewer‘s words, a concise striking slogan 
+ Rough out your poster in small scale-1/8 or ¼ actual size- so that final picture may be 
+made by an artist 
+ 
+Leaflet 
+<CHUNK_SEPARATOR>
+se striking slogan 
+ Rough out your poster in small scale-1/8 or ¼ actual size- so that final picture may be 
+made by an artist 
+ 
+Leaflet  
+Leaflet is usually a single sheet of printed matter, sometimes folded. It gives accurate or 
+specific information on a particular topic. It is intended to 
+ 
+1. Provide precise and reliable information told in simple language about a single practice 
+or items of interest. 
+2. Serve immediate needs of the respondents. 
+Procedure: 
+1. Decide on your message select topics related to the urgent needs of the community have 
+one simple practice of the idea at a time. 
+2. Select the most important one from the essential points this forms the central theme. 
+3
+<CHUNK_SEPARATOR>
+ave 
+one simple practice of the idea at a time. 
+2. Select the most important one from the essential points this forms the central theme. 
+3. Jot down all appropriate points, declare the essential points, finally arrive at the 
+desirable points. 
+4. List the remaining essential points in logical order and group the desirable points under 
+the appropriate essential points. 
+5. Write your script, with all essential points in sequence. 
+6. Make the most important points to catch the readers interest. 
+27 
+ 
+7. Write in simple short sentences. Use easy language which can be understood easily by 
+everybody. 
+8. Use familiar words and be clear in your writings. 
+9. Be accurate in your information.
+<CHUNK_SEPARATOR>
+age which can be understood easily by 
+everybody. 
+8. Use familiar words and be clear in your writings. 
+9. Be accurate in your information. 
+10. Use illustrations and pictures in the appropriate place. 
+11. Give your letter “sales appeal “ with a pleasing appearance. 
+12. Tie your closing with an action note. 
+13. Wide and even margin in a letter contribute to the ease of reading. 
+Advantages: 
+ Economical, relatively easy and quickly prepared and can be preserved and used by the 
+readers 
+ Supplement other information and media 
+ Can be used in schools and training programmes and as a basis for discussion in 
+meetings 
+ Commercial organizations and theaters commonly distribute leaf let
+<CHUNK_SEPARATOR>
+ols and training programmes and as a basis for discussion in 
+meetings 
+ Commercial organizations and theaters commonly distribute leaf letters for publicity 
+ This can be used in field days, college days. 
+ Attractiveness of leaf letters can be increased by using different colours of papers or inks 
+or by illustrations or photographs. 
+ 
+Folder 
+Folder is a single sheet of paper folded once or twice and open material is presented in sequence 
+and make sure this sequence appeared in finished folder. 
+1. Folders are normally printed on paper heavier than flyer. 
+2. Paper usually prepared on offset or heavier paper 
+3. They may be made more attractive by using photographs, line drawings, va
+<CHUNK_SEPARATOR>
+an flyer. 
+2. Paper usually prepared on offset or heavier paper 
+3. They may be made more attractive by using photographs, line drawings, various colors of ink and 
+line graphs. 
+4. Folder size 4‘*8‘ is more attractive 
+5. Width to length ration of 1:1.5 is more suitable and paper size permits without waste, but there is 
+not a set rule on size. 
+ 
+Advantages: 
+ Economical 
+ Used for more sophisticated audience 
+Pamphlets are an important way of getting information to the community. You can use them: 
+1. To mobilize people to support your cause 
+2. To advertise a meeting or specific event 
+3. To popularize your slogans and messages. 
+ 
+Pamphlets  
+28 
+ 
+Pamphlets are very useful especially
+<CHUNK_SEPARATOR>
+advertise a meeting or specific event 
+3. To popularize your slogans and messages. 
+ 
+Pamphlets  
+28 
+ 
+Pamphlets are very useful especially in areas where there is no easy access to newspapers and 
+radio. It is a direct way of communicating with your constituency, but it can also be very 
+expensive. Organizations can easily produce pamphlets but it is essential that you are clear about 
+the aim of the media, who you are targeting, and what you want to achieve by doing it before 
+spending lots of money. 
+Pamphlets should be used when you want to give people more information than you can put on a 
+poster, for example to: 
+1. explain an issue to the community 
+2. inform people of their rights 
+<CHUNK_SEPARATOR>
+ple more information than you can put on a 
+poster, for example to: 
+1. explain an issue to the community 
+2. inform people of their rights 
+3. win support for a campaign you are running 
+4. win support for your organization‘s point of view 
+Pamphlets are much cheaper to produce than posters and you can usually produce small 
+pamphlets in A5 size (half the size of a normal A4 page) for less than 10 cents each. You can 
+produce pamphlets by photocopying them yourselves or printing them on a duplicator or by 
+taking them to a professional printer. It is important to produce pamphlets that attract attention 
+and make people want to read them. You can also waste a lot of money if you print pamph
+<CHUNK_SEPARATOR>
+portant to produce pamphlets that attract attention 
+and make people want to read them. You can also waste a lot of money if you print pamphlets 
+and then do not distribute them properly. 
+ 
+Communication approaches- individuals, Group and mass 
+          A method is a procedure or process for attaining an objective. The method of 
+communication or choice of a channel is also known as extension  teaching method. This 
+generally depends on the number and location of the target audience and the time available for 
+communication. The communication methods or extension  teaching methods are categorized 
+as Individual method s, Group methods  and Mass methods.  Each of the methods has 
+both advan
+<CHUNK_SEPARATOR>
+r extension  teaching methods are categorized 
+as Individual method s, Group methods  and Mass methods.  Each of the methods has 
+both advantages and limitations. The extension agent has to choose a particular method 
+or combination of methods according to the needs of the situation. 
+ 
+Individual method 
+29 
+ 
+In this method, the extension agent communicates with the people individually, maintaining 
+separate identity of each person. 
+Method applicability 
+This method is followed when the numbers of people to be contacted are few, conveniently 
+located close to the communicator and sufficient time is available for communication. 
+Examples: Farm and home visit, farmer‘s call etc. 
+Advantages
+<CHUNK_SEPARATOR>
+close to the communicator and sufficient time is available for communication. 
+Examples: Farm and home visit, farmer‘s call etc. 
+Advantages 
+1. Help the extension agent in building rapport 
+2. Facilitates gaining firsthand knowledge of farm and home 
+3. Helps in selecting demonstrators and local leaders 
+4. Helps in changing attitude of the people 
+5. Helps in teaching complex practices 
+6. Facilitates transfer of technology 
+7. Enhances effectiveness of group and mass methods 
+8. Facilitates getting feedback information 
+Limitations 
+ This method is time consuming and relatively expensive 
+ Has low coverage of audience 
+ Extension agent may develop favoritism or bias towards some person
+<CHUNK_SEPARATOR>
+ime consuming and relatively expensive 
+ Has low coverage of audience 
+ Extension agent may develop favoritism or bias towards some persons 
+ 
+ 
+Group method 
+Definition of group: A group may be defined as an aggregate of small number of people in 
+reciprocal communication and interaction around some common interest. 
+In this method, the extension agent communicates with the people in groups and not as 
+individual persons. 
+Method applicability 
+This method is adopted when it is necessary to communicate with a number of people 
+simultaneously, who are located not far off from the communicator. 
+Examples: Method demonstration, group meeting, small group training. Field day or farmer‘s 
+day 
+<CHUNK_SEPARATOR>
+located not far off from the communicator. 
+Examples: Method demonstration, group meeting, small group training. Field day or farmer‘s 
+day and study tour. 
+30 
+ 
+Advantages: 
+1. Enables the extension agent to have face- to-face contact with a number of people at a 
+time 
+2. Can reach a select part of the target group 
+3. Facilitates sharing of knowledge and experience and thereby strengthen learning of the 
+group members 
+4. Reach fewer people, but offer more opportunities for interaction and feedback 
+5. Satisfies the basic urge of people for social contacts 
+6. Motivate people to accept change due to group influence 
+7. More effective than mass method in stimulating action 
+8. Less expens
+<CHUNK_SEPARATOR>
+ntacts 
+6. Motivate people to accept change due to group influence 
+7. More effective than mass method in stimulating action 
+8. Less expensive than individual method due to more coverage 
+Limitations: 
+ Wide diversity in the interest of group members may create a 
+difficult learning situation 
+ Holding the meeting may be regarded as an objective in itself 
+ Vested interests, caste groups and village factions may hinder free interaction and 
+decision making by the group members 
+ 
+ 
+MASS METHOD: In this method, the extension agent communicates with a vast and 
+heterogeneous mass of people, without taking into consideration of their individual or group 
+identity. 
+Method applicability 
+Thi
+<CHUNK_SEPARATOR>
+vast and 
+heterogeneous mass of people, without taking into consideration of their individual or group 
+identity. 
+Method applicability 
+This method is adopted where a large and widely dispersed audience is to be communicated 
+within a short time. 
+Examples: Campaign, Exhibition, Newspaper, Radio and Television 
+Advantages: 
+ Suitable for creating general awareness amongst the people 
+ Helps in transferring knowledge and forming and changing opinions 
+ Large number of people may be communicated within a short time 
+ Facilitates quick communication in times of emergency 
+ Reinforces previous learning 
+ Less expensive due to more coverage 
+Limitations: 
+1. Less intensive method 
+2. Littl
+<CHUNK_SEPARATOR>
+ times of emergency 
+ Reinforces previous learning 
+ Less expensive due to more coverage 
+Limitations: 
+1. Less intensive method 
+2. Little scope for personal contact with the audience 
+3. Little opportunity for interaction with and amongst the audience 
+31 
+ 
+4. Generalized recommendations hinder application by individuals 
+5. Little control over the response of the audience 
+6. Difficulty in getting feedback information and evaluation of results 
+ 
+Concept and principles of teaching & learning in Extension 
+Teaching 
+Meaning and Definition 
+Teaching is the process of arranging situations that s timulate and guide the  learning activity 
+towards the goal that specify desired changes in th
+<CHUNK_SEPARATOR>
+is the process of arranging situations that s timulate and guide the  learning activity 
+towards the goal that specify desired changes in the behaviour of people. Teaching consists of 
+providing situations in which the important things to be learned are called to the attention of 
+the learners, their interest developed, desired aroused and action promoted. 
+It is defined as the process of providing situations in which learning takes place. 
+It is a purposeful process where communication takes place with sympathetic sharing and clearly 
+explaining subject matter to the student. 
+Criteria for effective Extension Teaching: 
+1. Extension teaching requires specific and clearly defined teaching ob
+<CHUNK_SEPARATOR>
+ matter to the student. 
+Criteria for effective Extension Teaching: 
+1. Extension teaching requires specific and clearly defined teaching objectives. Teaching 
+must be clearly conceived and specifically defined. There must be clear –cut concept 
+about the end product, i.e. what is going to be achieved. 
+Factors to be considered for deciding on the teaching objectives 
+ People to be taught 
+ Behavioral changes to be developed in people 
+ Content or subject matter to bring the desired change in behaviour 
+ The real life situation in which the action is going to take place 
+2. Extension teaching requires a suitable learning situation 
+3. Extension teaching requires effective communication 
+
+<CHUNK_SEPARATOR>
+ going to take place 
+2. Extension teaching requires a suitable learning situation 
+3. Extension teaching requires effective communication 
+4. Extension teaching requires both content and method 
+5. Extension teaching must be looked upon as an intentional process 
+6. Extension teaching must accomplish certain kinds of educational changes in relation to the 
+subject matter taught 
+7. Extension teaching requires careful evaluation of results 
+Learning 
+Meaning and Definition 
+1. Learning is the process by which an individual, through his/her own activity, changes his/her 
+behaviour. 
+2. Self activity is influenced by the student‘s abilities and efforts to bring about the change in 
+behaviour. 
+<CHUNK_SEPARATOR>
+changes his/her 
+behaviour. 
+2. Self activity is influenced by the student‘s abilities and efforts to bring about the change in 
+behaviour. 
+32 
+ 
+3. A process of progressive behaviour adaptation. It takes place within the learner when one feels 
+the need and strives for fulfilling the needs. 
+4. Learning is the goal of teaching 
+ 
+          Process: Means a course of procedures, something that occurs in a series of actions or 
+events conducting to the desired end. 
+Principles of Extension Teaching 
+Keeping in view the field extension agencies' problems and responsibilities following thirteen 
+principles have been suggested which may be practiced for educating adults in informal settings. 
+1
+<CHUNK_SEPARATOR>
+and responsibilities following thirteen 
+principles have been suggested which may be practiced for educating adults in informal settings. 
+1. Principle of cultural difference:  The first important principle is the principle of cultural 
+difference. For teaching to be effective the approaches and procedures must be suited to 
+the culture of the people who are taught. The extension work is not same in all the parts. 
+An important reason is that the cultural background of the people is different. It is 
+different from area to area. 
+When a new extension agent goes into a community she learns about: 
+ Its history and cultural background, 
+ What values the people hold dear, 
+ How they proceed 
+<CHUNK_SEPARATOR>
+nt goes into a community she learns about: 
+ Its history and cultural background, 
+ What values the people hold dear, 
+ How they proceed to reach their values, 
+ What organizations exist, and 
+ Who are the leaders in the community? 
+ The gender discrimination 
+ Social issues and problems of the women, adolescent girls and children. 
+ Technological interventions both at home & farm. 
+ How women are augmenting their income both at farm and home. 
+An extension agent must be alert to these differences if her work is to be effective. 
+2. Principles of cultural change:  Change is the essence of growth a nd progress. With its 
+growth and development extension has changed to meet cultural c
+<CHUNK_SEPARATOR>
+f cultural change:  Change is the essence of growth a nd progress. With its 
+growth and development extension has changed to meet cultural changes among the 
+people. 
+The confidence of the people had to be won at the beginning or start of extension work. 
+During the early days personal service was a key feature o f the work. Rural people had to 
+be convinced that extension agents had something of value to them, that science has 
+practical value to rural people in the things they were mostly concerned with. The agent 
+does this largely through personal help to an indiv idual farmer or rural women who has 
+the respect of his/her neighbors. When the farmer/farm women or rural women found 
+throu
+<CHUNK_SEPARATOR>
+lp to an indiv idual farmer or rural women who has 
+the respect of his/her neighbors. When the farmer/farm women or rural women found 
+through actual trial that the recommended ideas and practices brought desired results, 
+he/she gained confidence in the extension agent. Th e farmer agreed to use his farm for 
+a demonstration of a recommended practice. The malnourished children‘s condition has 
+improved with the intervention of the home science. Neighbors came and saw for 
+themselves and told other. The word got around. The extension agent was worth 
+something to them. They took ideas and practices based on the best scientific research 
+33 
+ 
+and applied themselves. They had confidence in hi
+<CHUNK_SEPARATOR>
+ething to them. They took ideas and practices based on the best scientific research 
+33 
+ 
+and applied themselves. They had confidence in him/her. They could discuss their 
+problems with him/her. 
+The educational structure of extension work grew. From these little beginning points it 
+spread over the community slowly in some places and more rapidly in others. In the early 
+days of extension work, emphasis was on improved practices in good production. Today 
+there is increasing emphasis on improved marketing practices. Today rural women 
+through their Self Help Groups (SHG‘s) entered into marketing their produces unlike 
+previously by men. As needs of rural people change, extension work has c
+<CHUNK_SEPARATOR>
+f Help Groups (SHG‘s) entered into marketing their produces unlike 
+previously by men. As needs of rural people change, extension work has changed. The 
+emphasis in extension work years ago were quite different from those of today. Likewise 
+those of today are quite different from the emphasis year ago. Extension work changes as 
+conditions change. 
+3. Grass-roots principles of organization:  Group of rural people in local communities 
+sponsor extension work. Country extension workers enlist the interest of these local 
+groups in farm and home practices and programmes originating and fed the programmes 
+to the local conditions. In many communities the initiation of extension work was 
+foster
+<CHUNK_SEPARATOR>
+and programmes originating and fed the programmes 
+to the local conditions. In many communities the initiation of extension work was 
+fostered by the agricultural college, but the work was not introduced until th ere was a 
+local group sufficiently interested in sponsoring it. The aim of the local group was to 
+demonstrate the value of the new practices or programmes so that more and more 
+families would participate. 
+4. Principles of cooperation : Extension work is cooper ative. The basis for its operation is 
+cooperative agreements made between department of agriculture, agricultural colleges, 
+and the rural people themselves. The extension service cooperate on national programme, 
+so that
+<CHUNK_SEPARATOR>
+ent of agriculture, agricultural colleges, 
+and the rural people themselves. The extension service cooperate on national programme, 
+so that rural people may understand the prov ision and decide whether the programmes 
+will contribute to their welfare. 
+5. Principle of interests and needs: Extension work is a system of voluntary education. 
+To be effective it must begin with the interests of families. It must meet those . interests, 
+and use them as a spring board for developing further interests. Many times the interests 
+of the rural people are not the interests of extension worker. Even though he see the needs 
+of the people better than they do themselves. 
+6. Participation principle  - l
+<CHUNK_SEPARATOR>
+ interests of extension worker. Even though he see the needs 
+of the people better than they do themselves. 
+6. Participation principle  - learning by doing : Growth results from participation in the 
+solution of problems. Good extension effort is directed toward assisting rural families to 
+work out their own p roblems rather than giving them readymade answers. People who 
+study their own problems and work out solutions are more likely to assume responsibility 
+for their own programmes and develop leadership in their work. Experience in these 
+things creates self confidence. They learn by doing. 
+In developing responsibility for leadership, a local farmer is frequently called upon to 
+presi
+<CHUNK_SEPARATOR>
+eates self confidence. They learn by doing. 
+In developing responsibility for leadership, a local farmer is frequently called upon to 
+preside at a meeting. The extension agent usually sits in the audience and is called upon 
+for scientific information relating to the dis cussion. At times he may act as secretary of 
+the meeting. 
+34 
+ 
+It takes patience and time in getting people accustomed to participate in group work, to 
+reach the point where they assume initiative and responsibility. They learn through 
+encouragement and by doing. Education is often a slow process. 
+7. Adoptability principle in the use of  teaching methods: People differ from one another. 
+Groups differ from other group
+<CHUNK_SEPARATOR>
+ a slow process. 
+7. Adoptability principle in the use of  teaching methods: People differ from one another. 
+Groups differ from other groups. Conditio ns differ. No one  teaching method is effective 
+under all situations. Reading materials are useful and effective for those who can read; 
+radio programmes for those who  have radios; meeting for those who can attend; 
+demonstrations of recommended practices are for those who can see the farm on which 
+the demonstration takes place. Farm and home visits are the most valuable method, but 
+take considerable time. 
+Extension agents have found that they need an inventory of teaching methods from which 
+to select to suite local conditions. They th
+<CHUNK_SEPARATOR>
+ time. 
+Extension agents have found that they need an inventory of teaching methods from which 
+to select to suite local conditions. They think of their set of methods as a kit of tools to 
+draw upon in getting a  teaching job done, much as a scientist in h is laboratory has 
+equipment to draw upon in getting a research job done. At times new methods must be 
+devised to meet new situations and changing conditions. The use of  teaching methods 
+must have flexibility. 
+8. Leadership principle:  It is not possible for village extension worker to reach to 
+thousands of families personally. But he/she can do so if he/she is able to identifying 
+voluntary workers from the communities. Suc h leader
+<CHUNK_SEPARATOR>
+housands of families personally. But he/she can do so if he/she is able to identifying 
+voluntary workers from the communities. Suc h leaders are not to be imported from 
+outside, but they are there. It is merely a question of identifying, encouraging and training 
+them. These leaders are local people. They are unpaid, in the training and visit 
+programme this approach was used very much by local leaders to multiply the 
+educational efforts of extension agents manifold. 
+9. Principle of trained specialists : For continuously keeping the extension agencies 
+informed of latest technology development, the directorate of agriculture/Home Science 
+specialist, and governments work as connecting li
+<CHUNK_SEPARATOR>
+s 
+informed of latest technology development, the directorate of agriculture/Home Science 
+specialist, and governments work as connecting link between research and practice. 
+10. Satisfaction principle:  As rural families observe satisfactory results of extension work 
+they look to it for more help. The principle needs little elaboration. It is the key to the 
+success of the work. It is the key to develop local volunteer leaders, who receive no 
+salary. Extension agents are quick to see that volunteer leaders must obtain more than 
+money satisfaction if the leader agent, for the work well done, encourages cont inuing 
+volunteer leadership. 
+11. Whole family principle:  Extension work is of t
+<CHUNK_SEPARATOR>
+the leader agent, for the work well done, encourages cont inuing 
+volunteer leadership. 
+11. Whole family principle:  Extension work is of the whole family or of both the sex of 
+family, boys and girls; men and women. There is work in agriculture for the men and 
+home extension for the women. Projects in agriculture and h ome making are designed to 
+develop leadership and to create favourable attitudes towards the use of scientific 
+information. Discussion programmes are held timely and important questions are 
+encouraged. 
+The boys and girls who have participated in the activi ties have greater confidence than 
+other boys and girls.  
+ 
+35 
+ 
+Although extension work among farmers, farm wome
+<CHUNK_SEPARATOR>
+rticipated in the activi ties have greater confidence than 
+other boys and girls.  
+ 
+35 
+ 
+Although extension work among farmers, farm women and youth appears to be separate 
+at first glance, there is much overlapping and integration in the family approach of 
+extension work. 
+12. Evaluation principle: Extension work is based on a belief of scientific method. Careful 
+studies are made to determine how well the work is progressing, the degree to which 
+extension is reaching, where and what can be done to improve it. The effectiveness of the 
+work is m easured, so far as it is possible to measure the people resulting from 
+the teaching process. 
+13. Principle of applied science and demoncracy
+<CHUNK_SEPARATOR>
+sured, so far as it is possible to measure the people resulting from 
+the teaching process. 
+13. Principle of applied science and demoncracy:  The methods of science are a n essential 
+part of the democratic process. Extension work seeks to accomplish this in agriculture 
+and rural living. Extension work translates scientific findings developed in the 
+laboratories and on experimental farms in such a way that farm families can voluntarily 
+adopt them to fulfill their own needs. 
+The results of research give a factual basis for the correction of common superstitions and 
+unfounded beliefs that arose in the past from inaccurate observations and were passed 
+along from generation to generation 
+<CHUNK_SEPARATOR>
+perstitions and 
+unfounded beliefs that arose in the past from inaccurate observations and were passed 
+along from generation to generation in the folk ways of the people. 
+Principles of Learning and their Implications for Teaching: 
+1. Principle of Association:  Learning is a growth like and continuous . The kind 
+of learning that takes place is the results of the kind of experiences we have. Experiences 
+that occur together tend to recur together. Previous  learning always sets the stage for 
+subsequent learning. 
+Implications For Teaching 
+ Begin at the level of the learner. 
+ New must be related to the old. 
+ Adjust the pace to the learner‘s capacity, one idea at a time. 
+ Bring the 
+<CHUNK_SEPARATOR>
+the level of the learner. 
+ New must be related to the old. 
+ Adjust the pace to the learner‘s capacity, one idea at a time. 
+ Bring the idea to the attenti on of the learner repeatedly (in a variety of ways) and 
+over a period of time. 
+ 
+2. Principle of Clarity:  Learning is purposeful.  Learning varies directly with the 
+meaningfulness of the material presented. Learning is increased when the learner sees the 
+end sought by the practice. 
+Implications For Teaching 
+ Learning must make sense to the learner. 
+ Progress must be constantly appraised and redirected. 
+ Purpose must be kept in sharp focus; (objectives must be clear to the learner and 
+teacher). 
+ 
+36 
+ 
+3. Principle of Sel
+<CHUNK_SEPARATOR>
+and redirected. 
+ Purpose must be kept in sharp focus; (objectives must be clear to the learner and 
+teacher). 
+ 
+36 
+ 
+3. Principle of Self -activity: Learning results through self -activity. It is an active process 
+on the part of the learner. Teachers can only set up the  learning situation and stimulate a 
+person to learn. The door to  learning is ―locked on the inside‖ and unless the learner 
+opens the door himself, learning cannot take self. 
+Learning involves appropriate activities that engage a maximum number of senses. 
+Implications For Teaching 
+ Activities appropriate to the specific learning situation must be used. 
+ Learning activities should engage a maximum number of senses
+<CHUNK_SEPARATOR>
+g 
+ Activities appropriate to the specific learning situation must be used. 
+ Learning activities should engage a maximum number of senses, by using audio -
+visual aids. Senses are the gate-ways to learning. 
+ 
+4. Principle of Readiness (Motivation) and Principle of Rewards 
+(Satisfaction): Learning must be challenging and satisfying. Readiness does not connote 
+mere desire to learn; it includes social and intellectual maturity as well. The more fully a 
+person is in readiness to act in a certain way, the more satisfying it will be for him, and 
+the more annoying if he is prevented from it. When not ready to act, he is annoyed if 
+made to act. A favorable attitude accelerates learning; a b
+<CHUNK_SEPARATOR>
+re annoying if he is prevented from it. When not ready to act, he is annoyed if 
+made to act. A favorable attitude accelerates learning; a bad attitude retards learning. 
+Without drive or interest a person does not learn. Consequently,  learning depends 
+primarily upon satisfaction of wants or needs, in other words, upon success. Rewards 
+maintain and strengthen the learning process. 
+Implications For Teaching 
+ Teacher motivation of the student is essential in making  learning more 
+challenging. 
+ Standards demanded of the learners should be suitable to their ability or capacity. 
+ Appropriate and timely recognition should be given to the student achievement. 
+ 
+5. Principle of Practice 
+<CHUNK_SEPARATOR>
+to their ability or capacity. 
+ Appropriate and timely recognition should be given to the student achievement. 
+ 
+5. Principle of Practice  (or Law of Exercise):  Learning must result in functional 
+understanding. Memorization alone is temporary unless reviewed or put to use in a 
+practical situation. The oftener a situation evokes or leads to a certain response, the 
+stronger becomes the tendency for it to do so in future. Practice leads to perfection; (not 
+mere countless repetitions). 
+Implications For Teaching 
+ Course content should be organized into meaningful units. 
+ Theory should be related to practice. 
+ Provide activities that stimulate actual use situations. 
+ 
+6. Principle o
+<CHUNK_SEPARATOR>
+nto meaningful units. 
+ Theory should be related to practice. 
+ Provide activities that stimulate actual use situations. 
+ 
+6. Principle of Disassociation : Learning is affected by emo tions. The intensity of 
+emotional feeling affects  learning differently in different individuals. The most effective 
+way of eliminating an undesirable response is to set up a desirable substitute, which must 
+he made more satisfying than the original (undesirable) reaction. 
+37 
+ 
+Implications For Teaching 
+ Strive to increase pleasant emotions and decrease unpleasant emotions of students 
+in connection with the learning process. 
+ Train the expression of emotions in the right direction. 
+7. Principle of
+<CHUNK_SEPARATOR>
+ emotions of students 
+in connection with the learning process. 
+ Train the expression of emotions in the right direction. 
+7. Principle of Timing: Learning takes place more readily when the facts or skills are given 
+at the time or just before the time they are to be used in a serviceable way. 
+Implication For Teaching 
+ Select the appropriate time, depending on the  learning activity: (neither too early, 
+nor too late). 
+ 
+8. Principle of Environment: Learning is affected by the physical and social environment. 
+Implications For Teaching 
+ The general physical environment includes physical facilities should be suitable to 
+the kind of learning taking place. 
+ Specific physical factors 
+<CHUNK_SEPARATOR>
+al physical environment includes physical facilities should be suitable to 
+the kind of learning taking place. 
+ Specific physical factors of the meeting place should be suitable to the activities 
+selected for use in the learning situation. 
+ The teacher should recognize and utilize the effects of the social environment 
+on learning. 
+Summarizing the major points,  
+Optimum learning takes place : 
+ When the learner is in a state of physiological and psychological readiness. 
+ When he repeats at intervals, the learning series which is to be mastered and 
+ When that series is accompanied by an emotionally satisfying experience. The 
+major task of the teacher is to arrange the  learning s
+<CHUNK_SEPARATOR>
+and 
+ When that series is accompanied by an emotionally satisfying experience. The 
+major task of the teacher is to arrange the  learning situation so that these 
+conditions prevail. 
+ 
+9. Principle of transfer: Application of perceived relationship to another situation in which 
+it is applicable. Unless knowledge or  learning can be applied in a new situation, it 
+remains very much restricted. 
+ 
+10. Principle of set or attitude:  An unfavourable attitude or set retards  learning and a 
+favorable attitude accelerates it. Unless attitude becomes favourable, adoption will not 
+take place. 
+ 
+11. Principle of clarity of objectives:  The objective of  learning should be clear. The ease 
+of lea
+<CHUNK_SEPARATOR>
+ble, adoption will not 
+take place. 
+ 
+11. Principle of clarity of objectives:  The objective of  learning should be clear. The ease 
+of learning seems to vary directly with the meaningfulness of the materia l presented. 
+Meaningful learning is interesting and easier than senseless learning. 
+In addition to understanding the principles underlying how adults learn, training must 
+also plan experiences and activities that maximize the  learning of trainees. Edgar Dale‘s 
+38 
+ 
+‗Cone of Experience‘, as modified by Sheal (1989), provides a linkage between  learning, 
+activity and participant involvement. 
+Teaching- Learning Process 
+Teaching-learning has four aspects: 
+1. Teacher 
+2. Learner /St
+<CHUNK_SEPARATOR>
+earning, 
+activity and participant involvement. 
+Teaching- Learning Process 
+Teaching-learning has four aspects: 
+1. Teacher 
+2. Learner /Student 
+3. Learning process 
+4. Learning situation 
+The teacher creates the learning situation for the student. The process is the interaction between 
+the student and the teacher. Teaching and learning relationship or interaction may be explained 
+with the help of a diagram. 
+Teaching – Learning process and teacher-taught interaction 
+Teaching-learning process is a means through which the teacher, the learner, the curriculum and 
+other variables are organized in a systematic manner to attain pre -determined goals and 
+objectives. 
+Teaching-learning proce
+<CHUNK_SEPARATOR>
+rriculum and 
+other variables are organized in a systematic manner to attain pre -determined goals and 
+objectives. 
+Teaching-learning process implies that all the various elements of the  teaching-learning situation 
+have to be brought into an intelligible whole. The  teaching-learning activities are varied and 
+complex to be harmonized. These elem ents and activities include  learners and their individual 
+differences, the methods of  teaching, the material to be taught, classroom 
+conditions, teaching devices and aids, questioning, answering, assignments, thinking, enjoying, 
+creating, practical skills, discussions and many other things. Thus  teaching –learning process is 
+influenced by 
+<CHUNK_SEPARATOR>
+nts, thinking, enjoying, 
+creating, practical skills, discussions and many other things. Thus  teaching –learning process is 
+influenced by the totality of the situation. 
+ 
+Important characteristics of the Teaching-Learning Process 
+Teaching and learning are interlinked. We cannot think of teaching without learning. The teacher 
+teaches and the students learn. It is therefore important to make  teaching-learning sound more 
+effective, and for this we should look into various aspects critically so that the  teaching-
+learning will be inspirational and relevant. 
+1. Command, planning and organization of the subject matter or content and activities 
+The soul of effective  teaching –learning is
+<CHUNK_SEPARATOR>
+levant. 
+1. Command, planning and organization of the subject matter or content and activities 
+The soul of effective  teaching –learning is good command of the subject matter, 
+organizing the subject matter and using dynamic and progressive methods 
+of teaching and learning by the teacher so that the students can grasp the subject matter 
+easily and at the same time the class will be in control and discipline. 
+2. Appropriate class control and discipline  is one of the most important characteristic s of a 
+successful teacher 
+A good teacher is one who can control his/her class not through fear or high handedness 
+but by virtue of his/her interest in the learner, good command on the subject 
+<CHUNK_SEPARATOR>
+an control his/her class not through fear or high handedness 
+but by virtue of his/her interest in the learner, good command on the subject -matter and 
+39 
+ 
+the ability to present it interestingly and effectively. The  learners also appropriate 
+good teaching and co-operate the teacher in the teaching-learning process. 
+3. Psychology of learners 
+Teaching-learning will be more e ffective only when the teacher consider the interests, 
+abilities, aptitudes and  limitations of the  learners. The teacher must learn to understand 
+his/her learners and encourage them and has to practice tolerance and patience in dealing 
+with the  learners. The participation of the  learners is very important an
+<CHUNK_SEPARATOR>
+rage them and has to practice tolerance and patience in dealing 
+with the  learners. The participation of the  learners is very important and necessary if 
+the teaching-learner has to have a broader and meaningful process. 
+4. Evaluation 
+Evaluation has an  important place in the  teaching-learning process. A teacher should 
+carefully evaluate his students to find out how they can make more progress. Self -
+evaluation by both the teacher and student is very important. 
+Steps in Extension Teaching 
+To bring the desired changes in the behaviour of people, the extension teacher should organize 
+activities so that there will be repetition of the desired behaviour, each successive repetition 
+bui
+<CHUNK_SEPARATOR>
+the extension teacher should organize 
+activities so that there will be repetition of the desired behaviour, each successive repetition 
+building on the one before it. This conscious attention to organiz ation of teaching activities in a 
+sequence greatly increases the efficiency of  learning. This is the advantage of an educational 
+programme over incidental and occasional exposure to learning. 
+Extension teaching is a planned and deliberate act on the part of the extension agent. The 
+extension agent has to move step by step in a scientific and logical way to impart training to the 
+clients who are farmers, farm women and rural youth. The role of the extension agent is that of a 
+facilitat
+<CHUNK_SEPARATOR>
+ way to impart training to the 
+clients who are farmers, farm women and rural youth. The role of the extension agent is that of a 
+facilitator and motivator. These are some steps which are basis to extension teaching. 
+The extension teacher therefore plans and arranges situations and activities whereby the 
+thing to be learned is called to the  attention of the prospective learner, 
+his interest developed, desire aroused, conviction created, action promoted 
+and satisfaction ensured. 
+1. Attention: The first step in extension  teaching is to make the people aware of new ideas 
+and practices. The people must first know that a new idea, practice or object exists. This 
+is the starting point fo
+<CHUNK_SEPARATOR>
+ple aware of new ideas 
+and practices. The people must first know that a new idea, practice or object exists. This 
+is the starting point for change. Until the individual‘s attention have been focused on the 
+change that is considered desirable, there is no recognition of a problem to be solved or a 
+want to be satisfied. 
+Mass methods like radio, television, exhibition etc., and personal contact by the extension 
+agent, contact through local leaders is important at this stage. 
+2. Interest: Once the people have come to know of the new idea, the next step is to 
+stimulate their interest. This may be done by furnishing them more information about the 
+topic in a way they will be able to under
+<CHUNK_SEPARATOR>
+p is to 
+stimulate their interest. This may be done by furnishing them more information about the 
+topic in a way they will be able to understand and use. 
+It is necessary to present one idea at a time relevant to their needs. Personal contact by 
+the extension agent, contact through local leaders, farm publications, 
+radio, television etc., are important at this stage. 
+40 
+ 
+3. Desire: It means un -freezing the existing behaviour and motivating the people for 
+change. At this stage it is necessary to emphasize on the  advantages of the new idea or 
+practice. 
+Visit to demonstrations, farm publications, personal contact by the extension agent, group 
+discussion etc. are important at this st
+<CHUNK_SEPARATOR>
+ctice. 
+Visit to demonstrations, farm publications, personal contact by the extension agent, group 
+discussion etc. are important at this stage. 
+4. Conviction: It is a stage of  strong persuasion so as to convince the people about the 
+applicability of the new idea or practice in their own situation and that it would e 
+beneficial for them. The people are furnished with adequate information about the idea 
+and how it works. 
+Field day or farmer‘s day , slide show, personal contact by the extension agent and 
+training are important at this stage. 
+5. Action: This is the stage of putting  the idea or practice into operation. Small 
+scale demonstration with supply of critical inputs may be set
+<CHUNK_SEPARATOR>
+ion: This is the stage of putting  the idea or practice into operation. Small 
+scale demonstration with supply of critical inputs may be set up in real life situation of 
+the individual who come fo rward. This provides the opportunity of direct experience on 
+the part of the learners. At this stage it is necessary to collect evidence of change such as 
+change in yield, income, employment, behaviour etc., 
+Demonstration, personal contact by the extension agent, supply of critical inputs and 
+ensuring essential services are important at the stage. 
+6. Satisfaction: To produce lasting change, the extension efforts should produce satisfying 
+results. Satisfaction may come from high yield, more i
+<CHUNK_SEPARATOR>
+sfaction: To produce lasting change, the extension efforts should produce satisfying 
+results. Satisfaction may come from high yield, more income, and better health etc., 
+Satisfaction reinforces learning and develops confidence, which generates motivation for 
+further change. 
+To sustain the changed behaviour, it is necessary to furnish new and relevant information 
+about the practice on a continued basis, till change in the practice itself is felt necessary. 
+Use of mass media, local leaders and persons contact by the extension agent are 
+important at this stage. Availability of critical inputs and essential services are also to be 
+ensured. 
+ 
+Concept, importance and use of following exte
+<CHUNK_SEPARATOR>
+this stage. Availability of critical inputs and essential services are also to be 
+ensured. 
+ 
+Concept, importance and use of following extension teaching methods- farm 
+& home visit, discussion & meetings, field trip, exhibition, demonstration and 
+role play 
+Farm and Home Visit 
+Farm and Home Visit is a direct, face –to – face contact by the extension agent with the farmer 
+or homemaker at their farm or home for extension work 
+Objectives Farm and Home Visit 
+1. To get acquainted with and gain confidence of farmers and homemakers 
+2. To obtain and or give firsthand information on matters relating to farm and home 
+41 
+ 
+3. To advise and assist in solving specific problems, and teach skills
+<CHUNK_SEPARATOR>
+ive firsthand information on matters relating to farm and home 
+41 
+ 
+3. To advise and assist in solving specific problems, and teach skills 
+4. To sustain interest 
+Principles or Procedure to be followed: 
+1. Decide upon the place of the farm and home visit in the teaching plan outlined to 
+advance a particular phase of the extension programme 
+ Consider alternative methods which might be employed 
+ Decide whether the visits are primarily for direct teaching or are needed to increase the 
+effectiveness of group methods and mass media 
+ 
+2. Clarify the purpose of the visit – which are the purposes mentioned above are expected 
+to be achieved by the visit 
+3. Plan the visit: 
+ Review previ
+<CHUNK_SEPARATOR>
+ purpose of the visit – which are the purposes mentioned above are expected 
+to be achieved by the visit 
+3. Plan the visit: 
+ Review previous contacts with members of family 
+ Check subject matter information likely to be needed- leaflets or bulletins etc. 
+ Workout schedule of visits in the community to save time 
+ Remote and unfrequented homes should always be kept in view 
+ Consider best approach in view of individual family situation 
+ Be accurate in your statements 
+ Do not prolong arguments 
+ Leave clear impression as to object of visit 
+ If possible, hand over a folder or bulletin etc. pertaining to the topic discussed 
+ Leave the farm or home as a friend 
+ 
+4. Make the vis
+<CHUNK_SEPARATOR>
+ If possible, hand over a folder or bulletin etc. pertaining to the topic discussed 
+ Leave the farm or home as a friend 
+ 
+4. Make the visit: 
+ Punctuality and consideration for the time of the farm women should always be borne in 
+mind. Contact the farm women preferable when she is on the job 
+ Be friendly, sympathetic and complimentary 
+ Gain and deserve interviewee‘s confidence 
+ Let the farm women do most of the talking 
+ Speak only when she is willing to hear 
+ Talk in term of her interest 
+ Use natural and easy language, speak slowly and cheerfully 
+ 
+5. Record the visit: 
+ Date, purpose of visit, what was accomplished and follow up commitments made 
+ Make sure through appro
+<CHUNK_SEPARATOR>
+heerfully 
+ 
+5. Record the visit: 
+ Date, purpose of visit, what was accomplished and follow up commitments made 
+ Make sure through appropriate office device that follow-up at appropriate time is not 
+overlooked 
+ 
+6. Follow up the visit: 
+ Send applicable literature or other things by post or other-wise 
+42 
+ 
+ Extend invitation to attend a meeting, if any on the concerned topic 
+ Make subsequent visits if and when required 
+Advantages Farm and Home Visit: 
+1. Provides extension worker with first-hand knowledge of farm and home conditions, and the view 
+points of farm people 
+2. If made on request, the farmer or home –maker is likely to be ready to learn 
+3. The ratio of ‗‘takes (acce
+<CHUNK_SEPARATOR>
+ view 
+points of farm people 
+2. If made on request, the farmer or home –maker is likely to be ready to learn 
+3. The ratio of ‗‘takes (acceptance) to ‗‘exposures‘‘ (efforts) is high 
+4. Builds confidence between the extension worker and the farmer 
+5. May increase greatly the effectiveness of group methods and mass media 
+6. Contributes to selection of better local leaders, and mass media 
+7. Contributes to selection of better local leaders, demonstrators and co-operators 
+8. Develops good public relations 
+9. Useful in contacting those who do not participate in extension activities and who are not reached 
+by mass media 
+Limitations Farm and Home Visit 
+ Only limited number of contacts ma
+<CHUNK_SEPARATOR>
+cipate in extension activities and who are not reached 
+by mass media 
+Limitations Farm and Home Visit 
+ Only limited number of contacts may be made 
+ Time consuming and costly method 
+ Attention may be concentrated on a few big and progressive persons; neglecting the large number 
+of small, marginal, tribal farmers; landless labour and backward people which may prejudice 
+them 
+ 
+Demonstration 
+Among the communicational and educational techniques, ‗demonstrations‘ are the oldest, best, 
+and simplest tools for transmitting sophisticated technology in a simple and understandable form. 
+Objectives of the demonstrations 
+1. It provides the advantages of improved practices. 
+2. It brings the 
+<CHUNK_SEPARATOR>
+a simple and understandable form. 
+Objectives of the demonstrations 
+1. It provides the advantages of improved practices. 
+2. It brings the research to the doors of users. 
+3. It shows the worth, value and potentialities of techniques. 
+4. It dramatizes by arousing interest, creating desire motivating one to action, and finally to 
+satisfaction. 
+5. It fires the imagination and provides convincing results. 
+6. It builds confidence in; i) scientific facts ii) extension workers and iii) cooperating farmers 
+7. It persuades neighbourers to adopt recommended practices by demonstrating proofs. 
+8. It is used as a vital media for communication, dissemination and diffusion of information. 
+9. It up
+<CHUNK_SEPARATOR>
+ practices by demonstrating proofs. 
+8. It is used as a vital media for communication, dissemination and diffusion of information. 
+9. It upholds the principles of ‗seeing is believing‘ and ‗learning by doing‘. 
+10. It develops local leadership. 
+11. It provides scientists with a ‗field laboratory‘ and problem solving platform. 
+12. It accelerates and provides subject matter for training in the forms and use of extension methods. 
+In summary the demonstration is said to be successful if it changes the knowledge, skill, 
+understanding and attitude of the clientele and can bring desirable changes in their total 
+behaviour pertaining to the use of new practices or adoption of technology. 
+43 
+ 
+<CHUNK_SEPARATOR>
+clientele and can bring desirable changes in their total 
+behaviour pertaining to the use of new practices or adoption of technology. 
+43 
+ 
+Demonstration may be; 
+(A) i) method demonstration ii) result demonstration 
+(B) i) Simple and ii) composite demonstration 
+Group meeting 
+Group meeting is a method of democratically arriving at certain, decisions by a group of people, 
+by taking into consideration the member‘s points of view. 
+Objectives 
+ To prepare a favorable climate for discussion and help in better understanding of the problem by 
+pooling the knowledge and experience of a number of persons 
+ To facilitate in – depth discussion by involving a small number of participants 
+ To ge
+<CHUNK_SEPARATOR>
+ knowledge and experience of a number of persons 
+ To facilitate in – depth discussion by involving a small number of participants 
+ To generate new ideas and methods, and select the rational ones through group interaction. To 
+help formation of opinion about a specific issue 
+ To develop a favorable attitude and commitment for action through group involvement 
+ To act as a safety valve for reducing tension 
+Advantages: 
+ Reaches a large number of people 
+ Adopted to practically all lines of subject matter 
+ Recognizes basic urge of individuals for social contacts 
+ Promote personal acquaintance between extension worker and village people 
+ Supplements many other extension methods 
+
+<CHUNK_SEPARATOR>
+r social contacts 
+ Promote personal acquaintance between extension worker and village people 
+ Supplements many other extension methods 
+ Has great news possibilities and public value 
+ Influences changes in practice at low cost 
+Limitations 
+ Requires understanding of group dynamics and skill of the extension agent 
+ Village factions may hinder successful use of this method 
+ Group members must have some self-discipline 
+ A slow process and may not be suitable in crises and emergency situation 
+Stages in a meeting 
+1. planning: 
+1. selection of topic 
+2. timing 
+3. selection of place 
+4. selection of speaker and chairman 
+5. advertisement and publicity and 
+6. physical arrangements
+<CHUNK_SEPARATOR>
+ topic 
+2. timing 
+3. selection of place 
+4. selection of speaker and chairman 
+5. advertisement and publicity and 
+6. physical arrangements 
+ 
+2. conducting the meeting: 
+1. programme procedure and 
+2. audience participation 
+44 
+ 
+Follow-up of meeting:(1) summaries (2) press reports (3) displays (4) other methods and (5) 
+evaluation. 
+Field trips 
+Field trips are an excellent means of providing opportunities to participants to observe and 
+experience things/ objects/activities in natural settings. When the participants are exposed to real 
+world, they get firsthand experience and can relate their practical experience with theory. 
+The learners also experience sensory impressions which coul
+<CHUNK_SEPARATOR>
+get firsthand experience and can relate their practical experience with theory. 
+The learners also experience sensory impressions which could never occur in class rooms but are 
+characteristic of the environment in which the new behaviour must occur. Field trips, tours or 
+excursions may or may not be participative learning experiences but the success depends on how 
+well the trips are organized and executed to meet the learning objectives. Field trip should be 
+pertinent to the need of the learner and as much appropriate as possible to real situations. 
+Objectives 
+1. To expose the visitors to a new and different situation this shall help in changing their outlook 
+and extend their mental h
+<CHUNK_SEPARATOR>
+
+Objectives 
+1. To expose the visitors to a new and different situation this shall help in changing their outlook 
+and extend their mental horizon. 
+2. To understand the gap in technology adoption 
+3. To explore the feasibility of adopting new practices in visitor‘s own situations 
+4. To induce a spirit of competition amongst the participants by showing what others have been able 
+to achieve 
+The steps required for planning effective field trips are as follows 
+ Design experiences that meet specific objectives and needs of the participants 
+ Select most appropriate site for the expected learning to occur 
+ Plan logistics like lodging, boarding, transportation etc. 
+ Select individual to 
+<CHUNK_SEPARATOR>
+t appropriate site for the expected learning to occur 
+ Plan logistics like lodging, boarding, transportation etc. 
+ Select individual to accompany participants during the field trips. It is extremely useful for the 
+trainer to accompany the participants during the field trip to enhance group process of observing 
+and studying the field situation 
+ Follow-up the field visit through reports and discussions 
+ The field trip as a training method has the advantage of giving an opportunity to the participants 
+to observe and get first hand information in natural settings; relate their practical experience to 
+theoretical knowledge covered in a course; discover and supplement those realities t
+<CHUNK_SEPARATOR>
+natural settings; relate their practical experience to 
+theoretical knowledge covered in a course; discover and supplement those realities that can‘t be 
+brought to the classroom situation, and break the monotony of learning. The natural setting 
+facilities in developing interdependency when participants work in small groups of individuals 
+and there by develop team spirit .The report writing after field trip is an essential component 
+helps the participants to systematically collect analyze and present information. 
+Disadvantages: 
+1. It is a time consuming and cost effective process. 
+2. Field trip requires high coordination ability on the part of the trainer. 
+3. If field trips are not pl
+<CHUNK_SEPARATOR>
+ming and cost effective process. 
+2. Field trip requires high coordination ability on the part of the trainer. 
+3. If field trips are not planned carefully then the effectiveness of this method may get lost. 
+4. Sometimes when participants consider field trips as a pleasure trip and sources of entertainment 
+then the purpose of fieldtrip get diluted. 
+5. If the follow up of field trip is not done then it becomes difficult to analyze the success of the 
+field trips. 
+ 
+45 
+ 
+Group discussions  
+           This is an organized activity which involves free exchange of ideas to explore the causes 
+and possible solutions of a common problem of a number of people. Thus, the group makes a co-
+opera
+<CHUNK_SEPARATOR>
+exchange of ideas to explore the causes 
+and possible solutions of a common problem of a number of people. Thus, the group makes a co-
+operative effort to solve problems. It is imperative that the discussion must result in arriving at 
+consensus at the end. During the discussion process, learners are given the opportunity to express 
+their opinions, ideas and experiences freely and thereby, the participants learn to appreciate the 
+viewpoint of others. Some of the problems which may be thrashed out through group discussion 
+are environmental pollution, poverty, child labour etc. 
+Purposes: 
+ To solve a problem (decision-making) 
+ To exchange information 
+ To motivate 
+ To plan a programm
+<CHUNK_SEPARATOR>
+overty, child labour etc. 
+Purposes: 
+ To solve a problem (decision-making) 
+ To exchange information 
+ To motivate 
+ To plan a programme of action 
+ To elect or select a person for a position 
+ To entertain 
+ To hear and discuss a report 
+ To form attitudes 
+ To release tensions 
+ To train individuals 
+Procedure: 
+1. Understand and adopt the proper technique. The technique of a problem-solving group 
+discussion consists of the following six steps based on the ‗‘reflective thinking pattern‘‘. 
+ Recognition of the problem as such by the group 
+ Definition of the problem, its situation and diagnosis 
+ Listing of as many solutions as possible 
+ Critical thinking and testing of the
+<CHUNK_SEPARATOR>
+ Definition of the problem, its situation and diagnosis 
+ Listing of as many solutions as possible 
+ Critical thinking and testing of these hypotheses to find the most appropriate and feasible 
+solution or solutions. 
+ Acceptance or rejection of the solution or solutions by the group 
+ Lastly considering how to put the accepted solution into practice. 
+ 
+ 
+2. See that one of the group members takes up the role of the discussion leader. Extension 
+worker should avoid this role as far as possible, because inn such a case, a situation is 
+likely to develop where the group listens and the chairman does all the talking. 
+1. The size of group should never exceed 30 persons 
+2. The role of the
+<CHUNK_SEPARATOR>
+elop where the group listens and the chairman does all the talking. 
+1. The size of group should never exceed 30 persons 
+2. The role of the chairman: 
+ Make physical arrangement for the meeting, so that all members feel comfortable. 
+Seating arrangement should be such that everyone can see the faces of all other members. 
+Circular seating is preferable. 
+ Introduce members, if they are new to one another 
+ Announce the topic and purpose of discussion 
+ Follow a plan 
+46 
+ 
+ Hear all the contributions made and from time to time give short summaries of the 
+discussion up to that particular moment, especially when the group moves from one step 
+to another 
+ Build a permissive climate 
+ 
+<CHUNK_SEPARATOR>
+of the 
+discussion up to that particular moment, especially when the group moves from one step 
+to another 
+ Build a permissive climate 
+ Keep the group moving at the rate at which their thinking progresses 
+ Give or get clarification of vague statement 
+ Promote evaluation of all generations 
+ Protect minority opinion 
+ Try to get balanced participation 
+ Promote group cohesion 
+ Remain personally neutral 
+ Give a final summary of discussion 
+Some Don’ts for chairman: 
+1. Never ask questions that suggest answers or can be answered with a yes or no 
+2. Don‘t favour one view against another when there is a conflict or difference of opinion among 
+members 
+3. Never become emotional ab
+<CHUNK_SEPARATOR>
+ no 
+2. Don‘t favour one view against another when there is a conflict or difference of opinion among 
+members 
+3. Never become emotional about the discussion 
+4. Do not become impatient with the group 
+5. Do not dominate the discussion or answer questions raised by the members 
+The role of members: 
+1. Talk one at a time. No private conversation with neighbours. No speech making 
+2. Supply as much pertinent information as possible 
+3. Answer questions directly, specifically and briefly 
+4. Test all thinking by critical analysis 
+5. Listen attentively 
+6. Stay on the subject 
+7. Exhibit willingness to change his opinion when change is justified 
+8. Support the needed leadership 
+9. Promote g
+<CHUNK_SEPARATOR>
+. Stay on the subject 
+7. Exhibit willingness to change his opinion when change is justified 
+8. Support the needed leadership 
+9. Promote group harmony even while criticizing or disagreeing 
+The role of the expert (Extension worker or specialist) 
+There may be occasion when a group confronted with a problem does not have sufficient 
+information to enable them to discuss intelligently. In such cases, the role of the expert is not to 
+dominate the meeting, nor to suggest his own solution. He should only supply information, the 
+group does not have furnish technical information, present ways other groups have met similar 
+situations and present the immediate problem in its larger setting, with
+<CHUNK_SEPARATOR>
+ technical information, present ways other groups have met similar 
+situations and present the immediate problem in its larger setting, with implications for 
+integrating the solution of the problem with other group policies and action programmes. 
+To attain maximum advantages of Group discussion technique the following points should 
+be considered: 
+ The seating arrangement of the participants should be such that they face each other and can 
+maintain eye contact throughout. 
+ The whole group may be divided into smaller groups. From each group a leader or recorder may 
+be chosen who could ensure co-operation within the group but may not influence the group 
+decision. Sometimes, an encoura
+<CHUNK_SEPARATOR>
+r or recorder may 
+be chosen who could ensure co-operation within the group but may not influence the group 
+decision. Sometimes, an encourager is also needed in the group. 
+47 
+ 
+ Group members should work out a logical plan to analyze the problem such as recognition of the 
+problem, analysis of the problem, brainstorming solutions, analysis of consequences to the 
+proposed solutions, finding the most appropriate solution by verifying consequences. 
+ The teacher /facilitator should prominently display the main topic of discussion which should be 
+clearly visible for the duration of the discussion. 
+ The instructor /teacher must ensure that all the relevant facts have been considered. 
+ 
+<CHUNK_SEPARATOR>
+rly visible for the duration of the discussion. 
+ The instructor /teacher must ensure that all the relevant facts have been considered. 
+ Sufficient time must be allowed for through discussion and analysis of problem 
+ Recorders should be instructed to record all points without bias. 
+ Incase of indiscipline i.e. discussion turning hostile due to exchange of heated arguments amongst 
+the members, the teacher must intervene and bring the participants to order. 
+ Once individual groups are ready, the instructor/teacher should record all points/possible 
+solutions from all groups on the chalkboard/whiteboard etc. 
+ Only one solution based on consensus be selected. 
+Advantages: 
+1. It is a
+<CHUNK_SEPARATOR>
+e 
+solutions from all groups on the chalkboard/whiteboard etc. 
+ Only one solution based on consensus be selected. 
+Advantages: 
+1. It is a democratic method, giving equal opportunity for every participant to have his say 
+2. It appeals to the practical type of individuals 
+3. The strength of group discussion lies in the fact that the discussants approach the problem with an 
+open mind and suspended judgment in a spirit of enquiry 
+4. It is a co-operative effort and not combative or persuasive in nature 
+5. Combined and co-operative thinking of several persons is likely to be superior to that of isolated 
+individuals 
+6. Develops group morale 
+7. Participants need to be good speakers or deb
+<CHUNK_SEPARATOR>
+persons is likely to be superior to that of isolated 
+individuals 
+6. Develops group morale 
+7. Participants need to be good speakers or debaters‘ 
+8. It is a scientific method 
+Limitations: 
+ Factions in village may hinder the successful use of this method 
+ The ideal discussants with self-discipline are difficult to find 
+ It is not suitable for dealing with topics to which discussants are new 
+ In large groups especially, and even in small groups to some extent, it is difficult to achieve group 
+homogeneity or cohesion 
+ The size of the group has to be limited, because the success of the method is perhaps inversely 
+proportional to the size of group other factors being constant 
+ It
+<CHUNK_SEPARATOR>
+ to be limited, because the success of the method is perhaps inversely 
+proportional to the size of group other factors being constant 
+ It is not a good method for problems of fact 
+ It is not suitable for taking decisions in times of crisis or emergency, as it is a slow process 
+ Due to its informal conversational style, the scope for orderly or coherent arrangement of ideas is 
+limited 
+ 
+Exhibition 
+Exhibition is a systematic display of models, specimens, charts, photographs, pictures, posters, 
+information etc. in a sequence around a theme to create awareness and interest in community. 
+This method is suitable f or reaching all types of people. Exhibitions may be held at the village,
+<CHUNK_SEPARATOR>
+ate awareness and interest in community. 
+This method is suitable f or reaching all types of people. Exhibitions may be held at the village, 
+block, sub -division, district, state, national and international level. Though an exhibition is 
+organized around a major theme, other related themes and some unrelated items like 
+entertainment may also be included. Farmer‘s fairs and krishi melas held by the agricultural 
+universities, institutes and various other organizations in which field visit, training programmes 
+48 
+ 
+are combined with exhibition are effective and popular. Exhibitions may also be organized by 
+taking advantage of local fairs and festivals. In fixing dates for exhibition, the
+<CHUNK_SEPARATOR>
+ective and popular. Exhibitions may also be organized by 
+taking advantage of local fairs and festivals. In fixing dates for exhibition, the weather condition 
+and the schedule of farm operations may be kept in view. 
+An exhibition covers three stages of extension education which are: 
+ Arousing interest. 
+ Creating desire to learn. 
+ Providing a chance to take a decision. 
+ 
+ 
+Objectives: 
+1. To inform or introduce the people with better standards about the practices. 
+2. To impress people to adopt better practices. 
+3. To develop interest in a wide range of activities. 
+4. To promote understanding and create goodwill towards extension service. 
+Technique 
+Planning and preparation 
+1. Fo
+<CHUNK_SEPARATOR>
+range of activities. 
+4. To promote understanding and create goodwill towards extension service. 
+Technique 
+Planning and preparation 
+1. Form a steering committee and suitable  sub-committees with the specialists, local leaders and 
+administrators. 
+2. Decide on the theme and procure funds. 
+3. Decide on the venue, time and duration. 
+4. Prepare a written programme and communicate to all concerned in time. Keep some cultural and 
+recreational programmes in the evening. 
+5. Get the site ready for display of exhibits to be brought by the farmers. 
+6. Arrange a well ventilated, spacious,  covered or open  area for holding meeting, training and 
+entertainment programmes. 
+7. Display posters at 
+<CHUNK_SEPARATOR>
+nge a well ventilated, spacious,  covered or open  area for holding meeting, training and 
+entertainment programmes. 
+7. Display posters at important places. Publicize about the exhibition through mass media. 
+8. Decorate the stalls simply and tastefully. Make adequate arrangements for lighting. Use special –
+effect lights where necessary. 
+9. Prepare good quality and colorful exhibits which shall convey the desired message to the visitors. 
+Use local materials as far as possible. Label the exhibits in local language with bold letters. 
+10. Display exhibits about 50 to 60 cm. above the floor of the stall, up to a height of about 2 meters. 
+Maintain proper sequence. Avoid overcr owding of exh
+<CHUNK_SEPARATOR>
+its about 50 to 60 cm. above the floor of the stall, up to a height of about 2 meters. 
+Maintain proper sequence. Avoid overcr owding of exhibits. Take precaution against display of 
+insignificant and unrelated exhibits. 
+11. If possible, arrange action and live exhibits. 
+12. Train up interpreters and allot specific duties. For a long duration exhibition, arrange rotation and 
+replacement of personnel. 
+Implementation: 
+1. Organize formal opening of the exhibition by a local leader or a prominent person. 
+2. Arrange smooth flow of visitors. 
+3. Let the interpreters briefly explain the exhibits to the visitors so that the intended message is 
+clearly communicated. Distribute publications dur
+<CHUNK_SEPARATOR>
+interpreters briefly explain the exhibits to the visitors so that the intended message is 
+clearly communicated. Distribute publications during visit. 
+4. Organize a panel of experts to be present nearby, so that the visitors who would like to know 
+more or discuss some problems could get the desired information. 
+49 
+ 
+5. Conduct meetings, training programmes etc. as  per schedule during the day time. Use 
+the pandal at night for entertainment programmes. 
+6. Arrange judging of exhibits brought by the farmers and give away prizes and certificates. 
+7. Keep the exhibits and the premises clean. Replace exhibits as and when necessary. 
+8. If desired, judge the stalls on the basis of their qual
+<CHUNK_SEPARATOR>
+eep the exhibits and the premises clean. Replace exhibits as and when necessary. 
+8. If desired, judge the stalls on the basis of their quality of display, ability to draw visitors and 
+effectiveness in communicating message and award certificates. 
+9. Conclude the exhibition as scheduled by thanking the participants and those who have helped. 
+Follow-up: 
+ Meet some visitors personally and maintain a visitor‘s book for comments during the exhibition 
+to get feedback information. 
+ Talk to the local leaders and assess success of the exhibition. 
+ Ensure availability of critical inputs and facilities emphasized during the exhibition. 
+ Look for changes in practice in the community in the 
+<CHUNK_SEPARATOR>
+re availability of critical inputs and facilities emphasized during the exhibition. 
+ Look for changes in practice in the community in the coming years. 
+Lay out of agricultural exhibitions on large-scale: 
+In such exhibitions a gate, which depicts village life, may be prepared with material available in  
+the village. The exhibits may be grouped in sections like – agricultural information, agricultural 
+implements, soil conservation, crops, dairy, horticultural, flower show, entomology, plant 
+pathology, agricultural economics, extension, etc. some agencies like firms dealing with 
+insecticides, machines and bodies like I.C.A.R., etc. may be invited to display their material. 
+Space should
+<CHUNK_SEPARATOR>
+ncies like firms dealing with 
+insecticides, machines and bodies like I.C.A.R., etc. may be invited to display their material. 
+Space should be provided for film-shows, meetings, shops for tea etc. 
+Display: 
+Exhibits should be displayed and planned so as to be easily seen. Photographs, charts and posters 
+should be prominently placed at eye-level. Material for stands, etc.as far as possible, use material 
+available in the villages. Stands of bamboo or wood, woven with newar, kana, chatai, etc. may be 
+prepared even charpais arranged in a U-shape can serve this purpose. 
+Framing: 
+For framing we can paste pictures on cardboard and put bamboo or wooden frames. Frames 
+which are replaceable wi
+<CHUNK_SEPARATOR>
+ve this purpose. 
+Framing: 
+For framing we can paste pictures on cardboard and put bamboo or wooden frames. Frames 
+which are replaceable with catches at the back can be made. The pictures or diagrams may be 
+framed in glass and put in wooden crates so that they are not damaged in transport. 
+Exhibits, specimen and models: 
+Good exhibits tell a story without the need of an attendant. While planning to prepare an exhibit, 
+limit it to one idea and make it simple and large. It should be timely, durable and attractive 
+having bold letters and few items. All parts which need explanation should be labeled. 
+Advantages: 
+1. For reaching illiterates, it is one of the best media. 
+2. It can help to 
+<CHUNK_SEPARATOR>
+ parts which need explanation should be labeled. 
+Advantages: 
+1. For reaching illiterates, it is one of the best media. 
+2. It can help to raise the standard of certain products, its type and quality. 
+3. It helps the member to compare his work to others when used for that purpose. 
+4. It promotes or develops creative abilities to some extent. 
+5. At the occasions of festival, it can serve recreational requirements. 
+50 
+ 
+6. Where the extension work is beginning, it has a great publicity value. 
+7. It has an imaginative appeal. 
+8. It advertizes products which are available. 
+9. It is a learning experience. 
+Limitations: 
+ Requires lots of funds and preparation. 
+ Cannot be held frequent
+<CHUNK_SEPARATOR>
+ts which are available. 
+9. It is a learning experience. 
+Limitations: 
+ Requires lots of funds and preparation. 
+ Cannot be held frequently. 
+ It cannot be used widely. 
+ It cannot be repeated at the same place without making substantial changes. 
+ It is unable to represent all the phases of work.
