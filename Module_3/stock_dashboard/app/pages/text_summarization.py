@@ -8,7 +8,7 @@ sys.path.append(project_root)
 print(f"Project root (text_summarization.py): {project_root}")
 print(f"sys.path (text_summarization.py): {sys.path}")
 
-from src.data.summarization import summarize_text
+from src.utils.api_client import summarize_text
 
 st.title("Stock Text Summarization")
 

@@ -12,13 +12,17 @@ sys.path.append(project_root)
 print(f"Project root (stock_visualization.py): {project_root}")
 print(f"sys.path (stock_visualization.py): {sys.path}")
 
-from src.data.stock_data import get_stock_data
+from src.utils.api_client import get_stock_data
 
 st.title("Stock Price Visualization")
 
-@st.cache_data
+@st.cache_data(ttl=300)  # Cache for 5 minutes
 def load_stock_data(symbol, period):
-    return get_stock_data(symbol, period)
+    try:
+        return get_stock_data(symbol, period)
+    except Exception as e:
+        # Re-raise with more context
+        raise Exception(f"Failed to load data for {symbol}: {str(e)}")
 
 # Sidebar controls
 st.sidebar.header("Stock Selection")
@@ -29,8 +33,9 @@ symbols = st.sidebar.multiselect(
     default=["AAPL"]
 )
 
+# Period options that work reliably with yfinance
 period_options = ["1d", "5d", "1mo", "3mo", "6mo", "1y", "ytd", "max"]
-period = st.sidebar.selectbox("Select Period", period_options, index=4)
+period = st.sidebar.selectbox("Select Period", period_options, index=2)  # Default to 1mo
 
 # Iterate over each symbol and render the section
 for symbol in symbols:
@@ -84,4 +89,16 @@ for symbol in symbols:
         st.plotly_chart(fig_volume, use_container_width=True)
 
     except Exception as e:
-        st.error(f"Error loading data for {symbol}: {str(e)}")
+        error_msg = str(e)
+        # Provide user-friendly error messages
+        if "API request failed" in error_msg:
+            st.error(f"⚠️ Unable to fetch data for {symbol}. The API service may be temporarily unavailable. Please try again in a moment.")
+        elif "No data" in error_msg or "not found" in error_msg.lower():
+            st.warning(f"ℹ️ No data available for {symbol}. Please check if the symbol is correct.")
+        else:
+            st.error(f"❌ Error loading data for {symbol}: {error_msg}")
+        
+        # Show retry suggestion
+        if st.button(f"🔄 Retry {symbol}", key=f"retry_{symbol}"):
+            st.cache_data.clear()
+            st.rerun()
